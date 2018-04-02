@@ -1,0 +1,151 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---.github
+|       CODE_OF_CONDUCT.md
+|       CONTRIBUTING.md
+|       ISSUE_TEMPLATE.md
+|       PULL_REQUEST_TEMPLATE.md
+|       
++---archetypes
+|       blog.md
+|       default.md
+|       itemized.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   staticman.yml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       _index.md
+|   |   |       
+|   |   +---blog
+|   |   |       creating-a-new-theme.md
+|   |   |       goisforlovers.md
+|   |   |       hugoisforlovers.md
+|   |   |       migrate-from-jekyll.md
+|   |   |       
+|   |   +---contact
+|   |   |       _index.md
+|   |   |       
+|   |   \---itemized
+|   |           item1.md
+|   |           item2.md
+|   |           item3.md
+|   |           item4.md
+|   |           
+|   +---data
+|   |   \---comments
+|   |           .gitkeep
+|   |           
+|   \---static
+|       +---css
+|       |       add-on.css
+|       |       
+|       +---img
+|       |   +---2014
+|       |   |   +---04
+|       |   |   |       pic01.jpg
+|       |   |   |       pic02.jpg
+|       |   |   |       pic03.jpg
+|       |   |   |       
+|       |   |   \---09
+|       |   |           pic01.jpg
+|       |   |           pic03.jpg
+|       |   |           
+|       |   \---main
+|       |           logo.jpg
+|       |           
+|       \---js
+|               add-on.js
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   503.html
+|   |   index.html
+|   |   maintenance.html
+|   |   
+|   +---about
+|   |       list.html
+|   |       
+|   +---contact
+|   |       list.html
+|   |       
+|   +---itemized
+|   |       content-list.html
+|   |       content-single.html
+|   |       footer-category.html
+|   |       header.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |       favicon.html
+|   |       footer.html
+|   |       footer_mathjax.html
+|   |       general-title.html
+|   |       header.html
+|   |       img-path.html
+|   |       navbar.html
+|   |       pagination.html
+|   |       rss-icon.html
+|   |       seo_schema.html
+|   |       share-links.html
+|   |       share-menu.html
+|   |       sidebar.html
+|   |       social.html
+|   |       
+|   +---post
+|   |       comments.html
+|   |       content-list.html
+|   |       content-single.html
+|   |       featured.html
+|   |       footer-category.html
+|   |       header.html
+|   |       prev-next.html
+|   |       single.html
+|   |       staticman.html
+|   |       
+|   +---shortcodes
+|   |       fancybox.html
+|   |       img-fit.html
+|   |       img-post.html
+|   |       url-link.html
+|   |       
+|   +---taxonomy
+|   |       category.html
+|   |       category.terms.html
+|   |       tag.html
+|   |       tag.terms.html
+|   |       
+|   \---_default
+|           header.html
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       academicons.min.css
+    |       main.css
+    |       
+    +---fonts
+    |       academicons.eot
+    |       academicons.svg
+    |       academicons.ttf
+    |       academicons.woff
+    |       
+    \---js
+            backToTop.js
+            main.js
+            util.js
+            

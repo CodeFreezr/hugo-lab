@@ -1,0 +1,76 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---content
+|       shortcodes_samples.md
+|       
++---images
+|       screenshot.png
+|       screenshot1.png
+|       screenshot2.png
+|       screenshot3.png
+|       screenshot4.png
+|       screenshot5.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       copyright.html
+|   |       disqus.html
+|   |       flex-end.html
+|   |       flex-start.html
+|   |       footer.html
+|   |       footer_extra.html
+|   |       header.html
+|   |       header_extra.html
+|   |       sidebar.html
+|   |       
+|   +---shortcodes
+|   |       gist.html
+|   |       vimeo.html
+|   |       youtube.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           summary.html
+|           tags.html
+|           
+\---static
+    +---404
+    |       fernetjs-invaders.png
+    |       game.min.js
+    |       start.js
+    |       
+    +---css
+    |       custom.css
+    |       fonts.css
+    |       normalize.css
+    |       skeleton.css
+    |       
+    +---genericons
+    |       example.html
+    |       genericons.css
+    |       Genericons.eot
+    |       Genericons.svg
+    |       Genericons.ttf
+    |       Genericons.woff
+    |       LICENSE.txt
+    |       
+    +---highlight
+    |       highlight.pack.js
+    |       LICENSE
+    |       tomorrow-night.css
+    |       
+    \---media
+            me.jpg
+            

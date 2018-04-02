@@ -1,0 +1,72 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .gitkeep
+|   |       
+|   +---data
+|   |       .gitkeep
+|   |       
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   \---partials
+|           head.html
+|           header.html
+|           logo.html
+|           quote.html
+|           scripts.html
+|           social.html
+|           
+\---static
+    \---assets
+        +---css
+        |       bootstrap.min.css
+        |       font-awesome.min.css
+        |       main.css
+        |       
+        +---fonts
+        |       fontawesome-webfont.eot
+        |       fontawesome-webfont.svg
+        |       fontawesome-webfont.ttf
+        |       fontawesome-webfont.woff
+        |       fontawesome-webfont.woff2
+        |       FontAwesome.otf
+        |       glyphicons-halflings-regular.eot
+        |       glyphicons-halflings-regular.svg
+        |       glyphicons-halflings-regular.ttf
+        |       glyphicons-halflings-regular.woff
+        |       glyphicons-halflings-regular.woff2
+        |       
+        +---img
+        |       bg.jpg
+        |       logo.png
+        |       
+        \---js
+                bootstrap.min.js
+                html5shiv.js
+                jquery-1.10.2.min.js
+                jquery.backstretch.min.js
+                jquery.min.js
+                respond.min.js
+                

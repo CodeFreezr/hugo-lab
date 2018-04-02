@@ -1,0 +1,300 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   wercker.yml
+|   
++---archetypes
+|       chapter.md
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   LICENSE.md
+|   |   
+|   +---content
+|   |   |   credits.en.md
+|   |   |   credits.fr.md
+|   |   |   showcase.en.md
+|   |   |   showcase.fr.md
+|   |   |   _index.en.md
+|   |   |   _index.fr.md
+|   |   |   
+|   |   +---basics
+|   |   |   |   _index.en.md
+|   |   |   |   _index.fr.md
+|   |   |   |   
+|   |   |   +---configuration
+|   |   |   |       _index.en.md
+|   |   |   |       _index.fr.md
+|   |   |   |       
+|   |   |   +---installation
+|   |   |   |   |   _index.en.md
+|   |   |   |   |   _index.fr.md
+|   |   |   |   |   
+|   |   |   |   \---images
+|   |   |   |           chapter.png
+|   |   |   |           
+|   |   |   +---requirements
+|   |   |   |   |   _index.en.md
+|   |   |   |   |   _index.fr.md
+|   |   |   |   |   
+|   |   |   |   \---images
+|   |   |   |           magic.gif
+|   |   |   |           
+|   |   |   \---style-customization
+|   |   |       |   _index.en.md
+|   |   |       |   _index.fr.md
+|   |   |       |   
+|   |   |       \---images
+|   |   |               blue-variant.png
+|   |   |               green-variant.png
+|   |   |               red-variant.png
+|   |   |               
+|   |   +---cont
+|   |   |   |   archetypes.en.md
+|   |   |   |   archetypes.fr.md
+|   |   |   |   markdown.en.md
+|   |   |   |   markdown.fr.md
+|   |   |   |   menushortcuts.en.md
+|   |   |   |   menushortcuts.fr.md
+|   |   |   |   _index.en.md
+|   |   |   |   _index.fr.md
+|   |   |   |   
+|   |   |   +---i18n
+|   |   |   |   |   _index.en.md
+|   |   |   |   |   _index.fr.md
+|   |   |   |   |   
+|   |   |   |   \---images
+|   |   |   |           i18n-menu.gif
+|   |   |   |           
+|   |   |   \---pages
+|   |   |       |   _index.en.md
+|   |   |       |   _index.fr.md
+|   |   |       |   
+|   |   |       \---images
+|   |   |               frontmatter-icon.png
+|   |   |               pages-chapter.png
+|   |   |               pages-default.png
+|   |   |               
+|   |   \---shortcodes
+|   |       |   attachments.en.md
+|   |       |   attachments.fr.md
+|   |       |   button.en.md
+|   |       |   button.fr.md
+|   |       |   expand.en.md
+|   |       |   expand.fr.md
+|   |       |   mermaid.en.md
+|   |       |   mermaid.fr.md
+|   |       |   notice.en.md
+|   |       |   notice.fr.md
+|   |       |   siteparam.en.md
+|   |       |   siteparam.fr.md
+|   |       |   _index.en.md
+|   |       |   _index.fr.md
+|   |       |   
+|   |       +---attachments.en.files
+|   |       |       adivorciarsetoca00cape.pdf
+|   |       |       BachGavotteShort.mp3
+|   |       |       Carroll_AliceAuPaysDesMerveilles.pdf
+|   |       |       hugo.png
+|   |       |       movieselectricsheep-flock-244-32500-2.mp4
+|   |       |       
+|   |       +---attachments.fr.files
+|   |       |       adivorciarsetoca00cape.pdf
+|   |       |       BachGavotteShort.mp3
+|   |       |       Carroll_AliceAuPaysDesMerveilles.pdf
+|   |       |       hugo.png
+|   |       |       movieselectricsheep-flock-244-32500-2.mp4
+|   |       |       
+|   |       \---children
+|   |           |   test.en.md
+|   |           |   test.fr.md
+|   |           |   _index.en.md
+|   |           |   _index.fr.md
+|   |           |   
+|   |           +---children-1
+|   |           |   |   _index.en.md
+|   |           |   |   _index.fr.md
+|   |           |   |   
+|   |           |   \---children-1-1
+|   |           |       |   _index.en.md
+|   |           |       |   _index.fr.md
+|   |           |       |   
+|   |           |       \---children-1-1-1
+|   |           |           |   _index.en.md
+|   |           |           |   _index.fr.md
+|   |           |           |   
+|   |           |           \---children-1-1-1-1
+|   |           |               |   _index.en.md
+|   |           |               |   _index.fr.md
+|   |           |               |   
+|   |           |               \---children-1-1-1-1-1
+|   |           |                       _index.en.md
+|   |           |                       _index.fr.md
+|   |           |                       
+|   |           +---children-2
+|   |           |       test3.en.md
+|   |           |       test3.fr.md
+|   |           |       _index.en.md
+|   |           |       _index.fr.md
+|   |           |       
+|   |           +---children-3
+|   |           |       _index.en.md
+|   |           |       _index.fr.md
+|   |           |       
+|   |           \---children-4
+|   |                   _index.en.md
+|   |                   _index.fr.md
+|   |                   
+|   +---layouts
+|   |   +---partials
+|   |   |       custom-footer.html
+|   |   |       logo.html
+|   |   |       menu-footer.html
+|   |   |       
+|   |   \---shortcodes
+|   |           ghcontributors.html
+|   |           
+|   \---static
+|       +---css
+|       |       theme-mine.css
+|       |       
+|       +---fonts
+|       |       monogramos-webfont.eot
+|       |       monogramos-webfont.svg
+|       |       monogramos-webfont.ttf
+|       |       monogramos-webfont.woff
+|       |       monogramos-webfont.woff2
+|       |       
+|       \---images
+|           \---showcase
+|                   tat.png
+|                   
++---i18n
+|       en.toml
+|       es.toml
+|       fr.toml
+|       pt.toml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   index.json
+|   |   
+|   +---partials
+|   |       custom-comments.html
+|   |       custom-footer.html
+|   |       custom-header.html
+|   |       favicon.html
+|   |       footer.html
+|   |       header.html
+|   |       logo.html
+|   |       menu-footer.html
+|   |       menu.html
+|   |       meta.html
+|   |       search.html
+|   |       toc.html
+|   |       
+|   +---shortcodes
+|   |       attachments.html
+|   |       button.html
+|   |       children.html
+|   |       expand.html
+|   |       mermaid.html
+|   |       notice.html
+|   |       ref.html
+|   |       relref.html
+|   |       siteparam.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       auto-complete.css
+    |       featherlight.min.css
+    |       font-awesome.min.css
+    |       hugo-theme.css
+    |       hybrid.css
+    |       nucleus.css
+    |       perfect-scrollbar.min.css
+    |       theme-blue.css
+    |       theme-green.css
+    |       theme-red.css
+    |       theme.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       Inconsolata.eot
+    |       Inconsolata.svg
+    |       Inconsolata.ttf
+    |       Inconsolata.woff
+    |       Novecentosanswide-Normal-webfont.eot
+    |       Novecentosanswide-Normal-webfont.svg
+    |       Novecentosanswide-Normal-webfont.ttf
+    |       Novecentosanswide-Normal-webfont.woff
+    |       Novecentosanswide-Normal-webfont.woff2
+    |       Novecentosanswide-UltraLight-webfont.eot
+    |       Novecentosanswide-UltraLight-webfont.svg
+    |       Novecentosanswide-UltraLight-webfont.ttf
+    |       Novecentosanswide-UltraLight-webfont.woff
+    |       Novecentosanswide-UltraLight-webfont.woff2
+    |       Work_Sans_200.eot
+    |       Work_Sans_200.svg
+    |       Work_Sans_200.ttf
+    |       Work_Sans_200.woff
+    |       Work_Sans_200.woff2
+    |       Work_Sans_300.eot
+    |       Work_Sans_300.svg
+    |       Work_Sans_300.ttf
+    |       Work_Sans_300.woff
+    |       Work_Sans_300.woff2
+    |       Work_Sans_500.eot
+    |       Work_Sans_500.svg
+    |       Work_Sans_500.ttf
+    |       Work_Sans_500.woff
+    |       Work_Sans_500.woff2
+    |       
+    +---images
+    |       clippy.svg
+    |       favicon.png
+    |       gopher-404.jpg
+    |       
+    +---js
+    |       auto-complete.js
+    |       clipboard.min.js
+    |       featherlight.min.js
+    |       highlight.pack.js
+    |       html5shiv-printshiv.min.js
+    |       hugo-learn.js
+    |       jquery-2.x.min.js
+    |       jquery.sticky.js
+    |       learn.js
+    |       lunr.min.js
+    |       modernizr.custom.71422.js
+    |       perfect-scrollbar.jquery.min.js
+    |       perfect-scrollbar.min.js
+    |       search.js
+    |       
+    \---mermaid
+            mermaid.css
+            mermaid.dark.css
+            mermaid.forest.css
+            mermaid.js
+            

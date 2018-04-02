@@ -1,0 +1,109 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---docs
+|   |   .gitignore
+|   |   index.html
+|   |   index.xml
+|   |   sitemap.xml
+|   |   
+|   +---about
+|   |       index.html
+|   |       
+|   +---categories
+|   |   |   index.xml
+|   |   |   
+|   |   +---development
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   \---golang
+|   |           index.html
+|   |           index.xml
+|   |           
+|   +---css
+|   |       style.css
+|   |       style2.css
+|   |       style3.css
+|   |       
+|   +---js
+|   |       caption.js
+|   |       
+|   +---post
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---creating-a-new-theme
+|   |   |       index.html
+|   |   |       
+|   |   +---goisforlovers
+|   |   |       index.html
+|   |   |       
+|   |   +---hugoisforlovers
+|   |   |       index.html
+|   |   |       
+|   |   \---migrate-from-jekyll
+|   |           index.html
+|   |           
+|   \---tags
+|       |   index.xml
+|       |   
+|       +---development
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---go
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---golang
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---hugo
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---templates
+|       |       index.html
+|       |       index.xml
+|       |       
+|       \---themes
+|               index.html
+|               index.xml
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       middle.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       style.css
+    |       style2.css
+    |       style3.css
+    |       
+    \---js
+            caption.js
+            

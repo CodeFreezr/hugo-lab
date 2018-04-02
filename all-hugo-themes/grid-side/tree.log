@@ -1,0 +1,356 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---customgallery
+|   |   |       anothercar.md
+|   |   |       anothercup.md
+|   |   |       anotherdrone.md
+|   |   |       anotherfood.md
+|   |   |       anotherjars.md
+|   |   |       anotherphone.md
+|   |   |       car.md
+|   |   |       cup.md
+|   |   |       drone.md
+|   |   |       food.md
+|   |   |       jars.md
+|   |   |       phone.md
+|   |   |       
+|   |   +---custompost
+|   |   |       eight.md
+|   |   |       eleven.md
+|   |   |       five.md
+|   |   |       four.md
+|   |   |       info.md
+|   |   |       nine.md
+|   |   |       one.md
+|   |   |       redirect.md
+|   |   |       seven.md
+|   |   |       six.md
+|   |   |       ten.md
+|   |   |       three.md
+|   |   |       twelve.md
+|   |   |       two.md
+|   |   |       
+|   |   +---customproject
+|   |   |       anothercar.md
+|   |   |       anothercup.md
+|   |   |       anotherdrone.md
+|   |   |       anotherfood.md
+|   |   |       anotherjars.md
+|   |   |       anotherphone.md
+|   |   |       car.md
+|   |   |       cup.md
+|   |   |       drone.md
+|   |   |       food.md
+|   |   |       jars.md
+|   |   |       phone.md
+|   |   |       video.md
+|   |   |       
+|   |   +---gallery
+|   |   |       anothercar.md
+|   |   |       anothercup.md
+|   |   |       anotherdrone.md
+|   |   |       anotherfood.md
+|   |   |       anotherjars.md
+|   |   |       anotherphone.md
+|   |   |       car.md
+|   |   |       cup.md
+|   |   |       drone.md
+|   |   |       food.md
+|   |   |       jars.md
+|   |   |       phone.md
+|   |   |       
+|   |   +---post
+|   |   |       eight.md
+|   |   |       eleven.md
+|   |   |       five.md
+|   |   |       four.md
+|   |   |       info.md
+|   |   |       nine.md
+|   |   |       one.md
+|   |   |       redirect.md
+|   |   |       seven.md
+|   |   |       six.md
+|   |   |       ten.md
+|   |   |       three.md
+|   |   |       twelve.md
+|   |   |       two.md
+|   |   |       
+|   |   \---project
+|   |           anothercar.md
+|   |           anothercup.md
+|   |           anotherdrone.md
+|   |           anotherfood.md
+|   |           anotherjars.md
+|   |           anotherphone.md
+|   |           car.md
+|   |           cup.md
+|   |           drone.md
+|   |           food.md
+|   |           jars.md
+|   |           phone.md
+|   |           video.md
+|   |           
+|   +---layouts
+|   |   +---customgallery
+|   |   |       single.html
+|   |   |       
+|   |   +---custompost
+|   |   |       single.html
+|   |   |       
+|   |   +---customproject
+|   |   |       single.html
+|   |   |       
+|   |   \---section
+|   |           customgallery.html
+|   |           custompost.html
+|   |           customproject.html
+|   |           
+|   \---static
+|       +---img
+|       |       banner.jpg
+|       |       car.jpg
+|       |       cup.jpg
+|       |       drone.jpg
+|       |       food.jpg
+|       |       jars.jpg
+|       |       phone.jpg
+|       |       
+|       \---vid
+|               vid_352x288.3gp
+|               vid_480x320.mp4
+|               vid_480x320.ogv
+|               vid_480x320.webm
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---gallery
+|   |       single.html
+|   |       
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |   +---404
+|   |   |       single.html
+|   |   |       
+|   |   +---core
+|   |   |       css.html
+|   |   |       head.html
+|   |   |       html-end.html
+|   |   |       html-start.html
+|   |   |       js.html
+|   |   |       main-menu.html
+|   |   |       search-lightbox.html
+|   |   |       search.html
+|   |   |       
+|   |   +---extra
+|   |   |       categories.html
+|   |   |       disqus.html
+|   |   |       pagination.html
+|   |   |       tags.html
+|   |   |       video.html
+|   |   |       
+|   |   +---gallery
+|   |   |       collection.html
+|   |   |       item.html
+|   |   |       list.html
+|   |   |       single.html
+|   |   |       
+|   |   +---homepage
+|   |   |       header-logo.html
+|   |   |       single.html
+|   |   |       svg-face.html
+|   |   |       
+|   |   +---page
+|   |   |       single.html
+|   |   |       
+|   |   +---post
+|   |   |       list.html
+|   |   |       page-item.html
+|   |   |       single.html
+|   |   |       terms.html
+|   |   |       
+|   |   \---project
+|   |           collection.html
+|   |           item.html
+|   |           list.html
+|   |           single.html
+|   |           
+|   +---post
+|   |       single.html
+|   |       
+|   +---project
+|   |       single.html
+|   |       
+|   +---section
+|   |       gallery.html
+|   |       post.html
+|   |       project.html
+|   |       
+|   +---shortcodes
+|   |       youtube.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |   |   font-awesome.min.css
+    |   |   lightbox.css
+    |   |   main.css
+    |   |   materialize.min.css
+    |   |   
+    |   \---styles
+    |           agate.css
+    |           androidstudio.css
+    |           arta.css
+    |           ascetic.css
+    |           atelier-cave.dark.css
+    |           atelier-cave.light.css
+    |           atelier-dune.dark.css
+    |           atelier-dune.light.css
+    |           atelier-estuary.dark.css
+    |           atelier-estuary.light.css
+    |           atelier-forest.dark.css
+    |           atelier-forest.light.css
+    |           atelier-heath.dark.css
+    |           atelier-heath.light.css
+    |           atelier-lakeside.dark.css
+    |           atelier-lakeside.light.css
+    |           atelier-plateau.dark.css
+    |           atelier-plateau.light.css
+    |           atelier-savanna.dark.css
+    |           atelier-savanna.light.css
+    |           atelier-seaside.dark.css
+    |           atelier-seaside.light.css
+    |           atelier-sulphurpool.dark.css
+    |           atelier-sulphurpool.light.css
+    |           brown_paper.css
+    |           brown_papersq.png
+    |           codepen-embed.css
+    |           color-brewer.css
+    |           dark.css
+    |           darkula.css
+    |           default.css
+    |           docco.css
+    |           far.css
+    |           foundation.css
+    |           github-gist.css
+    |           github.css
+    |           googlecode.css
+    |           grayscale.css
+    |           hopscotch.css
+    |           hybrid.css
+    |           idea.css
+    |           ir_black.css
+    |           kimbie.dark.css
+    |           kimbie.light.css
+    |           magula.css
+    |           mono-blue.css
+    |           monokai.css
+    |           monokai_sublime.css
+    |           obsidian.css
+    |           paraiso.dark.css
+    |           paraiso.light.css
+    |           pojoaque.css
+    |           pojoaque.jpg
+    |           railscasts.css
+    |           rainbow.css
+    |           school_book.css
+    |           school_book.png
+    |           solarized_dark.css
+    |           solarized_light.css
+    |           sunburst.css
+    |           tomorrow-night-blue.css
+    |           tomorrow-night-bright.css
+    |           tomorrow-night-eighties.css
+    |           tomorrow-night.css
+    |           tomorrow.css
+    |           vs.css
+    |           xcode.css
+    |           zenburn.css
+    |           
+    +---font
+    |   +---material-design-icons
+    |   |       LICENSE.txt
+    |   |       Material-Design-Icons.eot
+    |   |       Material-Design-Icons.svg
+    |   |       Material-Design-Icons.ttf
+    |   |       Material-Design-Icons.woff
+    |   |       Material-Design-Icons.woff2
+    |   |       
+    |   \---roboto
+    |           Roboto-Bold.ttf
+    |           Roboto-Bold.woff
+    |           Roboto-Bold.woff2
+    |           Roboto-Light.ttf
+    |           Roboto-Light.woff
+    |           Roboto-Light.woff2
+    |           Roboto-Medium.ttf
+    |           Roboto-Medium.woff
+    |           Roboto-Medium.woff2
+    |           Roboto-Regular.ttf
+    |           Roboto-Regular.woff
+    |           Roboto-Regular.woff2
+    |           Roboto-Thin.ttf
+    |           Roboto-Thin.woff
+    |           Roboto-Thin.woff2
+    |           
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    +---images
+    |       close.png
+    |       loading.gif
+    |       next.png
+    |       prev.png
+    |       
+    +---img
+    |       favicon.ico
+    |       loader.gif
+    |       placeholder.jpg
+    |       
+    \---js
+            highlight.pack.js
+            imagesloaded.pkgd.min.js
+            jquery-2.1.4.min.js
+            jquery.infinitescroll.min.js
+            lazysizes.min.js
+            lightbox.min.js
+            lightbox.min.map
+            ls.noscript.min.js
+            main.js
+            masonry.pkgd.min.js
+            materialize.min.js
+            modernizr-latest.js
+            

@@ -1,0 +1,101 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       blog.md
+|       default.md
+|       gallery.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   +---blog
+|   |   |       creating-a-new-theme.md
+|   |   |       goisforlovers.md
+|   |   |       hugoisforlovers.md
+|   |   |       migrate-from-jekyll.md
+|   |   |       
+|   |   \---gallery
+|   |           hugo.md
+|   |           osprey.md
+|   |           rugged-fellows-guide.md
+|   |           toma-nistor.md
+|   |           
+|   \---static
+|       \---images
+|               hugo.png
+|               osprey-logo.png
+|               osprey.png
+|               rugged-fellows-guide.png
+|               toma-nistor.png
+|               
++---images
+|       osprey-logo.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   sitemap.xml
+|   |   
+|   +---gallery
+|   |       list.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |   |   about.html
+|   |   |   blog.html
+|   |   |   body-bottom.html
+|   |   |   body-top.html
+|   |   |   contact.html
+|   |   |   css.html
+|   |   |   disqus.html
+|   |   |   footer.html
+|   |   |   gallery.html
+|   |   |   header.html
+|   |   |   
+|   |   \---scripts
+|   |           contact.min.js
+|   |           
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---images
+    |       icon-menu.png
+    |       icon-x.png
+    |       osprey-logo.png
+    |       osprey.png
+    |       
+    +---scripts
+    |   |   contact.min.js
+    |   |   index.min.js
+    |   |   main.min.js
+    |   |   
+    |   \---src
+    |           contact.js
+    |           index.js
+    |           main.js
+    |           
+    \---styles
+        |   main.css
+        |   
+        \---scss
+                main.scss
+                _base.scss
+                _colors.scss
+                _flexboxgrid.scss
+                _layout.scss
+                _typography.scss
+                

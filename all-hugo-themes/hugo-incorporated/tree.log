@@ -1,0 +1,77 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   Gemfile
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---exampleSite
+|   |   config.yaml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           incorporated.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---indexes
+|   |       post.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       _disqus.html
+|   |       _google-analytics.html
+|   |       _piwik-analytics.html
+|   |       _scripts.html
+|   |       _social.html
+|   |       
+|   +---shortcodes
+|   |       quote.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           summary.html
+|           
++---scss
+|       main.scss
+|       _animate.scss
+|       _article.scss
+|       _base.scss
+|       _bootstrap.scss
+|       _icons.scss
+|       _nav.scss
+|       _responsive.scss
+|       _syntax.scss
+|       
+\---static
+    |   favicon.ico
+    |   
+    +---css
+    |       main.css
+    |       
+    +---images
+    |       blog-cover.jpg
+    |       faces.jpg
+    |       incorporated.jpg
+    |       logo.png
+    |       
+    \---js
+            main.js
+            

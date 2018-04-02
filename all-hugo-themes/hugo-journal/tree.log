@@ -1,0 +1,62 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .scss-lint.yml
+|   Gemfile
+|   Gemfile.lock
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       default.md
+|   |       
+|   \---content
+|       \---post
+|               a-post.md
+|               another-post.md
+|               hello-world.md
+|               theme-reference.md
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       bottom.html
+|   |       top.html
+|   |       
+|   +---post
+|   |       single.html
+|   |       
+|   +---shortcodes
+|   |       fig.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
++---scss
+|       journal.scss
+|       
+\---static
+    +---css
+    |       highlight.css
+    |       journal.css
+    |       
+    \---js
+            highlight.pack.js
+            

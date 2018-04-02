@@ -1,0 +1,134 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       about.md
+|       default.md
+|       post.md
+|       presentation.md
+|       project.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   +---post
+|   |   |       andyetanother.md
+|   |   |       another.md
+|   |   |       another1.md
+|   |   |       another2.md
+|   |   |       another3.md
+|   |   |       coolpost.md
+|   |   |       first.md
+|   |   |       omgsomany.md
+|   |   |       omgsomanymore.md
+|   |   |       second.md
+|   |   |       third.md
+|   |   |       yetanother.md
+|   |   |       
+|   |   \---project
+|   |           collaborativeproject.md
+|   |           coolcode.md
+|   |           coolwebsite.md
+|   |           hugotheme.md
+|   |           myproject.md
+|   |           snippet.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       post.png
+|       projects.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---about
+|   |       single.html
+|   |       
+|   +---partials
+|   |       extra-footer.html
+|   |       extra-header.html
+|   |       fab-buttons.html
+|   |       footer.html
+|   |       header.html
+|   |       navbar.html
+|   |       pagination.html
+|   |       postsnippets.html
+|   |       prevnextbtns.html
+|   |       profile.html
+|   |       showallposts.html
+|   |       socialbtns.html
+|   |       
+|   +---post
+|   |       card-12.html
+|   |       card-8.html
+|   |       listitem.html
+|   |       single.html
+|   |       
+|   +---presentation
+|   |       single.html
+|   |       
+|   +---project
+|   |       project-card.html
+|   |       single.html
+|   |       
+|   +---section
+|   |       post.html
+|   |       project.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       hmdl-style.css
+    |       hmdl-style.css.map
+    |       ionicons.min.css
+    |       remark.css
+    |       
+    +---fonts
+    |   \---iconicons
+    |           ionicons.eot
+    |           ionicons.svg
+    |           ionicons.ttf
+    |           ionicons.woff
+    |           
+    +---images
+    |       avatar-192x210.png
+    |       avatar-64x64.png
+    |       avatar.png
+    |       background-original.jpg
+    |       background.jpg
+    |       default-original.jpg
+    |       default-small.jpg
+    |       default.jpg
+    |       
+    +---js
+    |       cardmedia.js
+    |       fabbutton.js
+    |       
+    \---scss
+            hmdl-style.scss
+            _about.scss
+            _base.scss
+            _blog.scss
+            _index.scss
+            _list.scss
+            _misc.scss
+            _nav.scss
+            _page.scss
+            

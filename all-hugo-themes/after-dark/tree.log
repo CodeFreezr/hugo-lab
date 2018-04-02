@@ -1,0 +1,103 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   COPYING
+|   package-lock.json
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       post.md
+|       
++---bin
+|       install.sh
+|       
++---images
+|   |   minimal-mac.png
+|   |   screenshot.png
+|   |   tn.png
+|   |   
+|   \---docs
+|           feat-social-awareness.png
+|           feat-syntax-highlighting.png
+|           
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   async-scripts.html
+|   |   |   global-styles.html
+|   |   |   menu.html
+|   |   |   page-summary.html
+|   |   |   pagination.html
+|   |   |   powered-by.html
+|   |   |   toc-maybe.html
+|   |   |   
+|   |   +---components
+|   |   |       alert.html
+|   |   |       button.html
+|   |   |       buttongroup.html
+|   |   |       card.html
+|   |   |       privacytube.html
+|   |   |       progress.html
+|   |   |       throbber.html
+|   |   |       
+|   |   +---head
+|   |   |       critical-custom.css
+|   |   |       critical-theme.css
+|   |   |       critical-vendor.css
+|   |   |       favicon.html
+|   |   |       site-verification.html
+|   |   |       
+|   |   +---meta
+|   |   |       name-author.html
+|   |   |       ogimage-maybe.html
+|   |   |       theme-color.html
+|   |   |       
+|   |   \---post
+|   |           byline.html
+|   |           category-link.html
+|   |           meta.html
+|   |           related-content.html
+|   |           tag-link.html
+|   |           
+|   +---post
+|   |       single.html
+|   |       
+|   +---shortcodes
+|   |       blockquote.html
+|   |       coub.html
+|   |       figure.html
+|   |       hackcss-alert.html
+|   |       hackcss-button.html
+|   |       hackcss-buttongroup.html
+|   |       hackcss-card.html
+|   |       hackcss-progress.html
+|   |       hackcss-throbber.html
+|   |       privacytube.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
+\---static
+    +---bpg
+    |       cinemagraph-6.bpg
+    |       
+    \---js
+            bpgdec.js
+            bpgdec8.js
+            bpgdec8a.js
+            lazysizes.min.js
+            smoothscroll.js
+            

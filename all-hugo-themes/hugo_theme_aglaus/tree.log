@@ -1,0 +1,48 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---images
+|       .DS_Store
+|       amp-valid.png
+|       include-images.png
+|       responsive.png
+|       screenshot.png
+|       taxonomy.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   
+|   +---partials
+|   |       meta.html
+|   |       pagination.html
+|   |       share.html
+|   |       single_json_ld.html
+|   |       single_meta.html
+|   |       styles.css
+|   |       
+|   +---shortcodes
+|   |       clear.html
+|   |       img.html
+|   |       twitter.html
+|   |       
+|   \---_default
+|           baseof.html
+|           li.html
+|           list.html
+|           li_sm.html
+|           single.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    \---images
+            default.jpg
+            

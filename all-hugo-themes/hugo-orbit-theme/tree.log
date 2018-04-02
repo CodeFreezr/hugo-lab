@@ -1,0 +1,343 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       .gitkeep
+|   |       
+|   +---content
+|   |       .gitkeep
+|   |       
+|   \---static
+|       |   favicon.ico
+|       |   
+|       \---assets
+|           +---css
+|           |       styles-2.css
+|           |       styles-3.css
+|           |       styles-4.css
+|           |       styles-5.css
+|           |       styles-6.css
+|           |       styles.css
+|           |       
+|           +---images
+|           |       profile.png
+|           |       
+|           +---js
+|           |   |   main.js
+|           |   |   
+|           |   \---min
+|           |           main-min.js
+|           |           
+|           +---less
+|           |   +---css
+|           |   |       styles.css
+|           |   |       
+|           |   +---default
+|           |   |       base.less
+|           |   |       mixins.less
+|           |   |       responsive.less
+|           |   |       styles.less
+|           |   |       theme-default.less
+|           |   |       
+|           |   +---theme-2
+|           |   |       base.less
+|           |   |       mixins.less
+|           |   |       responsive.less
+|           |   |       styles.less
+|           |   |       theme-default.less
+|           |   |       
+|           |   +---theme-3
+|           |   |       base.less
+|           |   |       mixins.less
+|           |   |       responsive.less
+|           |   |       styles.less
+|           |   |       theme-default.less
+|           |   |       
+|           |   +---theme-4
+|           |   |       base.less
+|           |   |       mixins.less
+|           |   |       responsive.less
+|           |   |       styles.less
+|           |   |       theme-default.less
+|           |   |       
+|           |   +---theme-5
+|           |   |       base.less
+|           |   |       mixins.less
+|           |   |       responsive.less
+|           |   |       styles.less
+|           |   |       theme-default.less
+|           |   |       
+|           |   \---theme-6
+|           |           base.less
+|           |           mixins.less
+|           |           responsive.less
+|           |           styles.less
+|           |           theme-default.less
+|           |           
+|           \---plugins
+|               |   jquery-1.11.3.min.js
+|               |   
+|               +---bootstrap
+|               |   |   .editorconfig
+|               |   |   .gitattributes
+|               |   |   .gitignore
+|               |   |   .hound.yml
+|               |   |   .travis.yml
+|               |   |   
+|               |   +---css
+|               |   |       bootstrap-theme.css
+|               |   |       bootstrap-theme.css.map
+|               |   |       bootstrap-theme.min.css
+|               |   |       bootstrap-theme.min.css.map
+|               |   |       bootstrap.css
+|               |   |       bootstrap.css.map
+|               |   |       bootstrap.min.css
+|               |   |       bootstrap.min.css.map
+|               |   |       
+|               |   +---fonts
+|               |   |       glyphicons-halflings-regular.eot
+|               |   |       glyphicons-halflings-regular.svg
+|               |   |       glyphicons-halflings-regular.ttf
+|               |   |       glyphicons-halflings-regular.woff
+|               |   |       glyphicons-halflings-regular.woff2
+|               |   |       
+|               |   \---js
+|               |           bootstrap.js
+|               |           bootstrap.min.js
+|               |           npm.js
+|               |           
+|               \---font-awesome
+|                   |   HELP-US-OUT.txt
+|                   |   
+|                   +---css
+|                   |       font-awesome.css
+|                   |       font-awesome.min.css
+|                   |       
+|                   +---fonts
+|                   |       fontawesome-webfont.eot
+|                   |       fontawesome-webfont.svg
+|                   |       fontawesome-webfont.ttf
+|                   |       fontawesome-webfont.woff
+|                   |       fontawesome-webfont.woff2
+|                   |       FontAwesome.otf
+|                   |       
+|                   +---less
+|                   |       animated.less
+|                   |       bordered-pulled.less
+|                   |       core.less
+|                   |       fixed-width.less
+|                   |       font-awesome.less
+|                   |       icons.less
+|                   |       larger.less
+|                   |       list.less
+|                   |       mixins.less
+|                   |       path.less
+|                   |       rotated-flipped.less
+|                   |       stacked.less
+|                   |       variables.less
+|                   |       
+|                   \---scss
+|                           font-awesome.scss
+|                           _animated.scss
+|                           _bordered-pulled.scss
+|                           _core.scss
+|                           _fixed-width.scss
+|                           _icons.scss
+|                           _larger.scss
+|                           _list.scss
+|                           _mixins.scss
+|                           _path.scss
+|                           _rotated-flipped.scss
+|                           _stacked.scss
+|                           _variables.scss
+|                           
++---i18n
+|       en.yaml
+|       ja.yaml
+|       ko.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       contact.html
+|   |       education.html
+|   |       experiences.html
+|   |       footer.html
+|   |       head.html
+|   |       interests.html
+|   |       lang.html
+|   |       language.html
+|   |       profile.html
+|   |       projects.html
+|   |       scripts.html
+|   |       sidebar.html
+|   |       skills.html
+|   |       summary.html
+|   |       translate.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    |   favicon.ico
+    |   
+    \---assets
+        +---css
+        |       styles-2.css
+        |       styles-3.css
+        |       styles-4.css
+        |       styles-5.css
+        |       styles-6.css
+        |       styles.css
+        |       
+        +---images
+        |       profile.png
+        |       
+        +---js
+        |   |   main.js
+        |   |   
+        |   \---min
+        |           main-min.js
+        |           
+        +---less
+        |   +---css
+        |   |       styles.css
+        |   |       
+        |   +---default
+        |   |       base.less
+        |   |       mixins.less
+        |   |       responsive.less
+        |   |       styles.less
+        |   |       theme-default.less
+        |   |       
+        |   +---theme-2
+        |   |       base.less
+        |   |       mixins.less
+        |   |       responsive.less
+        |   |       styles.less
+        |   |       theme-default.less
+        |   |       
+        |   +---theme-3
+        |   |       base.less
+        |   |       mixins.less
+        |   |       responsive.less
+        |   |       styles.less
+        |   |       theme-default.less
+        |   |       
+        |   +---theme-4
+        |   |       base.less
+        |   |       mixins.less
+        |   |       responsive.less
+        |   |       styles.less
+        |   |       theme-default.less
+        |   |       
+        |   +---theme-5
+        |   |       base.less
+        |   |       mixins.less
+        |   |       responsive.less
+        |   |       styles.less
+        |   |       theme-default.less
+        |   |       
+        |   \---theme-6
+        |           base.less
+        |           mixins.less
+        |           responsive.less
+        |           styles.less
+        |           theme-default.less
+        |           
+        \---plugins
+            |   jquery-1.11.3.min.js
+            |   
+            +---bootstrap
+            |   |   .editorconfig
+            |   |   .gitattributes
+            |   |   .gitignore
+            |   |   .hound.yml
+            |   |   .travis.yml
+            |   |   
+            |   +---css
+            |   |       bootstrap-theme.css
+            |   |       bootstrap-theme.css.map
+            |   |       bootstrap-theme.min.css
+            |   |       bootstrap-theme.min.css.map
+            |   |       bootstrap.css
+            |   |       bootstrap.css.map
+            |   |       bootstrap.min.css
+            |   |       bootstrap.min.css.map
+            |   |       
+            |   +---fonts
+            |   |       glyphicons-halflings-regular.eot
+            |   |       glyphicons-halflings-regular.svg
+            |   |       glyphicons-halflings-regular.ttf
+            |   |       glyphicons-halflings-regular.woff
+            |   |       glyphicons-halflings-regular.woff2
+            |   |       
+            |   \---js
+            |           bootstrap.js
+            |           bootstrap.min.js
+            |           npm.js
+            |           
+            \---font-awesome
+                |   HELP-US-OUT.txt
+                |   
+                +---css
+                |       font-awesome.css
+                |       font-awesome.min.css
+                |       
+                +---fonts
+                |       fontawesome-webfont.eot
+                |       fontawesome-webfont.svg
+                |       fontawesome-webfont.ttf
+                |       fontawesome-webfont.woff
+                |       fontawesome-webfont.woff2
+                |       FontAwesome.otf
+                |       
+                +---less
+                |       animated.less
+                |       bordered-pulled.less
+                |       core.less
+                |       fixed-width.less
+                |       font-awesome.less
+                |       icons.less
+                |       larger.less
+                |       list.less
+                |       mixins.less
+                |       path.less
+                |       rotated-flipped.less
+                |       stacked.less
+                |       variables.less
+                |       
+                \---scss
+                        font-awesome.scss
+                        _animated.scss
+                        _bordered-pulled.scss
+                        _core.scss
+                        _fixed-width.scss
+                        _icons.scss
+                        _larger.scss
+                        _list.scss
+                        _mixins.scss
+                        _path.scss
+                        _rotated-flipped.scss
+                        _stacked.scss
+                        _variables.scss
+                        

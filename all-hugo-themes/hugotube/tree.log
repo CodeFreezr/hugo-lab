@@ -1,0 +1,149 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   Makefile
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   yarn.lock
+|   
++---archetypes
+|       default.md
+|       
++---docs
+|   |   .nojekyll
+|   |   404.html
+|   |   index.html
+|   |   index.xml
+|   |   robots.txt
+|   |   sitemap.xml
+|   |   
+|   +---about
+|   |       index.html
+|   |       
+|   +---categories
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---css
+|   |       custom.css
+|   |       style.css
+|   |       style.css.map
+|   |       
+|   +---fans
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---biggest-banner
+|   |   |       index.html
+|   |   |       
+|   |   +---fans-choreo
+|   |   |       index.html
+|   |   |       
+|   |   \---fans-party
+|   |           index.html
+|   |           
+|   +---goals
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---football-comeback
+|   |   |       index.html
+|   |   |       
+|   |   \---recoba-amazing-goal
+|   |           index.html
+|   |           
+|   \---js
+|       \---vendor
+|               bootstrap.min.js
+|               jquery.min.js
+|               popper.min.js
+|               
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       default.md
+|   |       
+|   \---content
+|       |   about.md
+|       |   _index.md
+|       |   
+|       +---fans
+|       |       biggest-banner.md
+|       |       fans-choreo.md
+|       |       fans-party.md
+|       |       
+|       \---goals
+|               football-comeback.md
+|               recoba-amazing-goal.md
+|               
++---i18n
+|       en.toml
+|       es.toml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   robots.txt
+|   |   
+|   +---partials
+|   |   |   adsense-pagelevelads.html
+|   |   |   breadcrumb.html
+|   |   |   content_top.html
+|   |   |   footer.html
+|   |   |   gcs.html
+|   |   |   header.html
+|   |   |   head_custom.html
+|   |   |   i18nlist.html
+|   |   |   related.html
+|   |   |   share.html
+|   |   |   tags.html
+|   |   |   topnav.html
+|   |   |   
+|   |   +---share
+|   |   |       facebook.html
+|   |   |       google.html
+|   |   |       twitter.html
+|   |   |       
+|   |   \---single
+|   |       |   media.html
+|   |       |   
+|   |       \---placeholders
+|   |               article_after.html
+|   |               article_before.html
+|   |               media_before.html
+|   |               related_after.html
+|   |               related_before.html
+|   |               
+|   \---_default
+|           baseof.html
+|           list.html
+|           section.html
+|           single.html
+|           summary.html
+|           taxonomy.html
+|           terms.html
+|           
++---src
+|       style.scss
+|       
+\---static
+    +---css
+    |       custom.css
+    |       style.css
+    |       style.css.map
+    |       
+    \---js
+        \---vendor
+                bootstrap.min.js
+                jquery.min.js
+                popper.min.js
+                

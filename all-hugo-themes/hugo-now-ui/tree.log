@@ -1,0 +1,555 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   hugo-now-ui.Rproj
+|   LICENSE.md
+|   Makefile
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---docs
+|   |   index.html
+|   |   index.xml
+|   |   sitemap.xml
+|   |   
+|   +---2015
+|   |   \---01
+|   |       \---01
+|   |           \---lorem-ipsum
+|   |                   index.html
+|   |                   
+|   +---2016
+|   |   \---12
+|   |       \---30
+|   |           \---a-plain-markdown-post
+|   |                   index.html
+|   |                   
+|   +---2017
+|   |   \---11
+|   |       \---29
+|   |           \---example-post
+|   |                   index.html
+|   |                   
+|   +---categories
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---hugo
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   \---page
+|   |   |       \---1
+|   |   |               index.html
+|   |   |               
+|   |   \---r
+|   |       |   index.html
+|   |       |   index.xml
+|   |       |   
+|   |       \---page
+|   |           \---1
+|   |                   index.html
+|   |                   
+|   +---components
+|   |       index.html
+|   |       
+|   +---css
+|   |       bootstrap.min.css
+|   |       demo.css
+|   |       highlight.min.css
+|   |       now-ui-kit.css
+|   |       now-ui-kit.css.map
+|   |       
+|   +---fonts
+|   |       nucleo-outline.eot
+|   |       nucleo-outline.ttf
+|   |       nucleo-outline.woff
+|   |       nucleo-outline.woff2
+|   |       
+|   +---img
+|   |   |   apple-icon.png
+|   |   |   avatar.jpg
+|   |   |   bg1.jpg
+|   |   |   bg11.jpg
+|   |   |   bg3.jpg
+|   |   |   bg4.jpg
+|   |   |   bg5.jpg
+|   |   |   bg6.jpg
+|   |   |   bg7.jpg
+|   |   |   bg8.jpg
+|   |   |   blurred-image-1.jpg
+|   |   |   cc-by.svg
+|   |   |   creative-tim-white-slim2.png
+|   |   |   default-avatar.png
+|   |   |   eva.jpg
+|   |   |   favicon.png
+|   |   |   header.jpg
+|   |   |   hero-image-1.png
+|   |   |   hero-image-2.png
+|   |   |   hero-image-3.png
+|   |   |   invision-white-slim.png
+|   |   |   landing.jpg
+|   |   |   login.jpg
+|   |   |   logo-square.jpg
+|   |   |   logo.png
+|   |   |   now-logo.png
+|   |   |   nucleo-logo.svg
+|   |   |   profile.jpg
+|   |   |   ryan.jpg
+|   |   |   
+|   |   \---flags
+|   |           AD.png
+|   |           AE.png
+|   |           AG.png
+|   |           AM.png
+|   |           AR.png
+|   |           AT.png
+|   |           AU.png
+|   |           BE.png
+|   |           BF.png
+|   |           BG.png
+|   |           BO.png
+|   |           BR.png
+|   |           CA.png
+|   |           CD.png
+|   |           CG.png
+|   |           CH.png
+|   |           CL.png
+|   |           CM.png
+|   |           CN.png
+|   |           CO.png
+|   |           CZ.png
+|   |           DE.png
+|   |           DJ.png
+|   |           DK.png
+|   |           DZ.png
+|   |           EE.png
+|   |           EG.png
+|   |           ES.png
+|   |           FI.png
+|   |           FR.png
+|   |           GA.png
+|   |           GB.png
+|   |           GM.png
+|   |           GT.png
+|   |           HN.png
+|   |           HT.png
+|   |           HU.png
+|   |           ID.png
+|   |           IE.png
+|   |           IL.png
+|   |           IN.png
+|   |           IQ.png
+|   |           IR.png
+|   |           IT.png
+|   |           JM.png
+|   |           JO.png
+|   |           JP.png
+|   |           KG.png
+|   |           KN.png
+|   |           KP.png
+|   |           KR.png
+|   |           KW.png
+|   |           KZ.png
+|   |           LA.png
+|   |           LB.png
+|   |           LC.png
+|   |           LS.png
+|   |           LU.png
+|   |           LV.png
+|   |           MG.png
+|   |           MK.png
+|   |           ML.png
+|   |           MM.png
+|   |           MT.png
+|   |           MX.png
+|   |           NA.png
+|   |           NE.png
+|   |           NG.png
+|   |           NI.png
+|   |           NL.png
+|   |           NO.png
+|   |           OM.png
+|   |           PA.png
+|   |           PE.png
+|   |           PG.png
+|   |           PK.png
+|   |           PL.png
+|   |           PT.png
+|   |           PY.png
+|   |           QA.png
+|   |           RO.png
+|   |           RU.png
+|   |           RW.png
+|   |           SA.png
+|   |           SE.png
+|   |           SG.png
+|   |           SL.png
+|   |           SN.png
+|   |           SO.png
+|   |           SV.png
+|   |           TD.png
+|   |           TJ.png
+|   |           TL.png
+|   |           TR.png
+|   |           TZ.png
+|   |           UA.png
+|   |           US.png
+|   |           VE.png
+|   |           VN.png
+|   |           YE.png
+|   |           
+|   +---js
+|   |   |   now-ui-kit.js
+|   |   |   
+|   |   +---core
+|   |   |       bootstrap.min.js
+|   |   |       jquery.3.2.1.min.js
+|   |   |       popper.min.js
+|   |   |       
+|   |   \---plugins
+|   |           bootstrap-datepicker.js
+|   |           bootstrap-switch.js
+|   |           jquery.sharrre.js
+|   |           nouislider.min.js
+|   |           
+|   +---landing
+|   |       index.html
+|   |       
+|   +---login
+|   |       index.html
+|   |       
+|   +---page
+|   |   \---1
+|   |           index.html
+|   |           
+|   +---post
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   \---page
+|   |       \---1
+|   |               index.html
+|   |               
+|   +---profile
+|   |       index.html
+|   |       
+|   +---sass
+|   |   |   now-ui-kit.scss
+|   |   |   
+|   |   \---now-ui-kit
+|   |       |   _alerts.scss
+|   |       |   _badges.scss
+|   |       |   _buttons.scss
+|   |       |   _cards.scss
+|   |       |   _carousel.scss
+|   |       |   _checkboxes-radio.scss
+|   |       |   _dropdown.scss
+|   |       |   _example-pages.scss
+|   |       |   _footers.scss
+|   |       |   _images.scss
+|   |       |   _inputs.scss
+|   |       |   _misc.scss
+|   |       |   _mixins.scss
+|   |       |   _modals.scss
+|   |       |   _navbar.scss
+|   |       |   _nucleo-outline.scss
+|   |       |   _pagination.scss
+|   |       |   _pills.scss
+|   |       |   _popups.scss
+|   |       |   _progress.scss
+|   |       |   _responsive.scss
+|   |       |   _sections.scss
+|   |       |   _social-buttons.scss
+|   |       |   _tabs.scss
+|   |       |   _typography.scss
+|   |       |   _variables.scss
+|   |       |   
+|   |       +---mixins
+|   |       |       _badges.scss
+|   |       |       _buttons.scss
+|   |       |       _datepicker.scss
+|   |       |       _dropdown.scss
+|   |       |       _inputs.scss
+|   |       |       _modals.scss
+|   |       |       _navbar.scss
+|   |       |       _pages.scss
+|   |       |       _popovers.scss
+|   |       |       _transparency.scss
+|   |       |       _vendor-prefixes.scss
+|   |       |       
+|   |       \---plugins
+|   |               _plugin-bootstrap-switch.scss
+|   |               _plugin-datepicker.scss
+|   |               _plugin-nouislider.scss
+|   |               
+|   +---tags
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   \---example
+|   |       |   index.html
+|   |       |   index.xml
+|   |       |   
+|   |       \---page
+|   |           \---1
+|   |                   index.html
+|   |                   
+|   \---template
+|           index.html
+|           
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       |   components.html
+|       |   landing.html
+|       |   login.html
+|       |   profile.html
+|       |   template.md
+|       |   
+|       \---post
+|               2015-01-01-lorem-ipsum.md
+|               2016-12-30-hello-markdown.md
+|               2017-11-29-example-post.md
+|               
++---images
+|       menu-collapse.png
+|       menu-wide.png
+|       screenshot.png
+|       sidemenu.png
+|       tn.png
+|       
++---layouts
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       javascript.html
+|   |       meta.html
+|   |       nav.html
+|   |       
+|   +---template
+|   |       components.html
+|   |       login.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           old_list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |       bootstrap.min.css
+    |       demo.css
+    |       highlight.min.css
+    |       now-ui-kit.css
+    |       now-ui-kit.css.map
+    |       
+    +---fonts
+    |       nucleo-outline.eot
+    |       nucleo-outline.ttf
+    |       nucleo-outline.woff
+    |       nucleo-outline.woff2
+    |       
+    +---img
+    |   |   apple-icon.png
+    |   |   avatar.jpg
+    |   |   bg1.jpg
+    |   |   bg11.jpg
+    |   |   bg3.jpg
+    |   |   bg4.jpg
+    |   |   bg5.jpg
+    |   |   bg6.jpg
+    |   |   bg7.jpg
+    |   |   bg8.jpg
+    |   |   blurred-image-1.jpg
+    |   |   cc-by.svg
+    |   |   creative-tim-white-slim2.png
+    |   |   default-avatar.png
+    |   |   eva.jpg
+    |   |   favicon.png
+    |   |   header.jpg
+    |   |   hero-image-1.png
+    |   |   hero-image-2.png
+    |   |   hero-image-3.png
+    |   |   invision-white-slim.png
+    |   |   landing.jpg
+    |   |   login.jpg
+    |   |   logo-square.jpg
+    |   |   logo.png
+    |   |   now-logo.png
+    |   |   nucleo-logo.svg
+    |   |   profile.jpg
+    |   |   ryan.jpg
+    |   |   
+    |   \---flags
+    |           AD.png
+    |           AE.png
+    |           AG.png
+    |           AM.png
+    |           AR.png
+    |           AT.png
+    |           AU.png
+    |           BE.png
+    |           BF.png
+    |           BG.png
+    |           BO.png
+    |           BR.png
+    |           CA.png
+    |           CD.png
+    |           CG.png
+    |           CH.png
+    |           CL.png
+    |           CM.png
+    |           CN.png
+    |           CO.png
+    |           CZ.png
+    |           DE.png
+    |           DJ.png
+    |           DK.png
+    |           DZ.png
+    |           EE.png
+    |           EG.png
+    |           ES.png
+    |           FI.png
+    |           FR.png
+    |           GA.png
+    |           GB.png
+    |           GM.png
+    |           GT.png
+    |           HN.png
+    |           HT.png
+    |           HU.png
+    |           ID.png
+    |           IE.png
+    |           IL.png
+    |           IN.png
+    |           IQ.png
+    |           IR.png
+    |           IT.png
+    |           JM.png
+    |           JO.png
+    |           JP.png
+    |           KG.png
+    |           KN.png
+    |           KP.png
+    |           KR.png
+    |           KW.png
+    |           KZ.png
+    |           LA.png
+    |           LB.png
+    |           LC.png
+    |           LS.png
+    |           LU.png
+    |           LV.png
+    |           MG.png
+    |           MK.png
+    |           ML.png
+    |           MM.png
+    |           MT.png
+    |           MX.png
+    |           NA.png
+    |           NE.png
+    |           NG.png
+    |           NI.png
+    |           NL.png
+    |           NO.png
+    |           OM.png
+    |           PA.png
+    |           PE.png
+    |           PG.png
+    |           PK.png
+    |           PL.png
+    |           PT.png
+    |           PY.png
+    |           QA.png
+    |           RO.png
+    |           RU.png
+    |           RW.png
+    |           SA.png
+    |           SE.png
+    |           SG.png
+    |           SL.png
+    |           SN.png
+    |           SO.png
+    |           SV.png
+    |           TD.png
+    |           TJ.png
+    |           TL.png
+    |           TR.png
+    |           TZ.png
+    |           UA.png
+    |           US.png
+    |           VE.png
+    |           VN.png
+    |           YE.png
+    |           
+    +---js
+    |   |   now-ui-kit.js
+    |   |   
+    |   +---core
+    |   |       bootstrap.min.js
+    |   |       jquery.3.2.1.min.js
+    |   |       popper.min.js
+    |   |       
+    |   \---plugins
+    |           bootstrap-datepicker.js
+    |           bootstrap-switch.js
+    |           jquery.sharrre.js
+    |           nouislider.min.js
+    |           
+    \---sass
+        |   now-ui-kit.scss
+        |   
+        \---now-ui-kit
+            |   _alerts.scss
+            |   _badges.scss
+            |   _buttons.scss
+            |   _cards.scss
+            |   _carousel.scss
+            |   _checkboxes-radio.scss
+            |   _dropdown.scss
+            |   _example-pages.scss
+            |   _footers.scss
+            |   _images.scss
+            |   _inputs.scss
+            |   _misc.scss
+            |   _mixins.scss
+            |   _modals.scss
+            |   _navbar.scss
+            |   _nucleo-outline.scss
+            |   _pagination.scss
+            |   _pills.scss
+            |   _popups.scss
+            |   _progress.scss
+            |   _responsive.scss
+            |   _sections.scss
+            |   _social-buttons.scss
+            |   _tabs.scss
+            |   _typography.scss
+            |   _variables.scss
+            |   
+            +---mixins
+            |       _badges.scss
+            |       _buttons.scss
+            |       _datepicker.scss
+            |       _dropdown.scss
+            |       _inputs.scss
+            |       _modals.scss
+            |       _navbar.scss
+            |       _pages.scss
+            |       _popovers.scss
+            |       _transparency.scss
+            |       _vendor-prefixes.scss
+            |       
+            \---plugins
+                    _plugin-bootstrap-switch.scss
+                    _plugin-datepicker.scss
+                    _plugin-nouislider.scss
+                    

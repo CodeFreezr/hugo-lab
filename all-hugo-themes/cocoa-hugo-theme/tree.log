@@ -1,0 +1,119 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   README.md
+|   screenshots.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---dev
+|   |   Makefile
+|   |   README.md
+|   |   
+|   \---less
+|           flexbox-prefixes.less
+|           main.less
+|           markdown.less
+|           pygments.less
+|           reset.less
+|           site.less
+|           util.less
+|           
++---exampleSite
+|   |   config.toml
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       colophon.md
+|   |   |       _index.md
+|   |   |       
+|   |   +---blog
+|   |   |       lesmiserables-hugo.md
+|   |   |       metamorphosis-kafka.md
+|   |   |       use-at-instead-of-head.md
+|   |   |       _index.md
+|   |   |       
+|   |   \---code
+|   |           _index.md
+|   |           
+|   \---static
+|       |   .gitkeep
+|       |   
+|       +---css
+|       |       .gitkeep
+|       |       override.css
+|       |       
+|       \---img
+|               .gitkeep
+|               leaf.ico
+|               profile-2x.png
+|               profile-3x.png
+|               profile-4x.png
+|               profile.png
+|               
++---i18n
+|       de.yaml
+|       en.yaml
+|       
++---images
+|       scr.de-fullpage.png
+|       scr.en-fullpage.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---blog
+|   |       list.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       footer_scripts.html
+|   |       head.html
+|   |       header.html
+|   |       head_includes.html
+|   |       li.html
+|   |       meta.html
+|   |       page-heading.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       main.css
+    |       pygments.css
+    |       reset.css
+    |       
+    \---img
+        |   500px.svg
+        |   calendar.svg
+        |   email.svg
+        |   facebook.svg
+        |   favicon.ico
+        |   github.svg
+        |   instagram.svg
+        |   keybase.svg
+        |   linkedin.svg
+        |   mastodon.svg
+        |   rss.svg
+        |   soundcloud.svg
+        |   twitter.svg
+        |   
+        \---flags
+                de.svg
+                en.svg
+                fr.svg
+                

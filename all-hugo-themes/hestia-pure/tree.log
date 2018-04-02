@@ -1,0 +1,62 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   .gitignore
+|   .scss-lint.yml
+|   gulpfile.js
+|   LICENSE.md
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       js.html
+|   |       
+|   \---_default
+|           li.html
+|           list.html
+|           single.html
+|           
++---src
+|   \---scss
+|       |   style.scss
+|       |   
+|       \---modules
+|               _footer.scss
+|               _header.scss
+|               _list.scss
+|               _other.scss
+|               _single.scss
+|               _variables.scss
+|               
+\---static
+    +---css
+    |       style.css
+    |       
+    +---image
+    |   \---theme
+    |           author.png
+    |           favicon.ico
+    |           og.png
+    |           screenshot.png
+    |           
+    \---js
+            script.js
+            

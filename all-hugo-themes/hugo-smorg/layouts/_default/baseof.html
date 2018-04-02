@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+{{- partial "head.html" . }}
+{{- block "page-css" . }}
+{{- end }}
+{{- if not .Site.BuildDrafts }}
+{{- template "_internal/google_analytics_async.html" . }}
+{{- end }}
+<body>
+{{- block "nav" . }}
+{{ end }}
+{{- block "main" . }}
+{{ end }}
+{{- block "footer" . }}
+{{ end }}
+{{- if ne .Kind "404" }}{{- partial "microdata/json-ld.html" . }}{{ end -}}
+{{- partial "js-menu.html" . }}
+</body>
+</html>

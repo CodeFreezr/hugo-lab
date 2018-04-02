@@ -1,0 +1,146 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .scss-lint.yml
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       portfolio.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       index.md
+|   |   |       
+|   |   +---contact
+|   |   |       index.md
+|   |   |       
+|   |   \---post
+|   |           work1.md
+|   |           work10.md
+|   |           work11.md
+|   |           work2.md
+|   |           work3.md
+|   |           work4.md
+|   |           work5.md
+|   |           work7.md
+|   |           work8.md
+|   |           work9.md
+|   |           
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|       \---img
+|           |   about.jpg
+|           |   favicon.png
+|           |   
+|           \---portfolio
+|                   a4-paper.jpg
+|                   bike1.jpg
+|                   birds.jpg
+|                   bridge1.jpg
+|                   budapest.jpg
+|                   business-card-26.jpg
+|                   business-card.jpg
+|                   camera1.jpg
+|                   envelope-brand.jpg
+|                   gravity-paper.jpg
+|                   ipad-air-2.jpg
+|                   label-clothes.jpg
+|                   logs1.jpg
+|                   paper-presentation.jpg
+|                   railroad-forest1.jpg
+|                   sfo.jpg
+|                   trifold.jpg
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       single.html
+|   |       
+|   +---contact
+|   |       single.html
+|   |       
+|   +---partials
+|   |       attribution.html
+|   |       category.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       mobileNavToggle.html
+|   |       portfolio.html
+|   |       scripts.html
+|   |       sidebar.html
+|   |       socialButtonsInContact.html
+|   |       socialButtonsInSideBar.html
+|   |       tag.html
+|   |       topnavigation.html
+|   |       
+|   +---taxonomy
+|   |       category.html
+|   |       tag.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           taxonomy.html
+|           
+\---static
+    +---css
+    |   |   42.css
+    |   |   bootstrap.min.css
+    |   |   bootstrap.min.css.map
+    |   |   custom.css
+    |   |   font-awesome.min.css
+    |   |   helper.css
+    |   |   owl.carousel.css
+    |   |   owl.theme.css
+    |   |   owl.transitions.css
+    |   |   style.blue.css
+    |   |   style.default.css
+    |   |   style.green.css
+    |   |   style.pink.css
+    |   |   style.red.css
+    |   |   style.sea.css
+    |   |   style.violet.css
+    |   |   
+    |   \---fonts
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           fontawesome-webfont.woff2
+    |           FontAwesome.otf
+    |           
+    +---js
+    |       bootstrap.min.js
+    |       ekko-lightbox.js
+    |       front.js
+    |       imagesloaded.pkgd.min.js
+    |       jquery.cookie.js
+    |       jquery.min.js
+    |       jquery.scrollTo.min.js
+    |       main.js
+    |       masonry.pkgd.min.js
+    |       owl.carousel.min.js
+    |       
+    \---scss
+            main.scss
+            

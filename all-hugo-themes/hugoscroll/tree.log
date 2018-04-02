@@ -1,0 +1,82 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       script.html
+|   |       
+|   +---post
+|   |       post.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       base.css
+    |       base.css.map
+    |       base.min.css
+    |       
+    +---fonts
+    |   |   icons.dev.svg
+    |   |   icons.eot
+    |   |   icons.svg
+    |   |   icons.ttf
+    |   |   icons.woff
+    |   |   
+    |   \---font-awesome
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           FontAwesome.otf
+    |           
+    +---img
+    |       background-cover.jpg
+    |       
+    +---js
+    |       index.js
+    |       index.min.js
+    |       jquery.min.js
+    |       
+    \---scss
+        |   base.scss
+        |   _global.scss
+        |   _icons.scss
+        |   _media-queries.scss
+        |   _reset.scss
+        |   _variables.scss
+        |   
+        \---font-awesome
+                _bordered-pulled.scss
+                _core.scss
+                _fixed-width.scss
+                _font-awesome.scss
+                _icons.scss
+                _larger.scss
+                _list.scss
+                _mixins.scss
+                _path.scss
+                _rotated-flipped.scss
+                _spinning.scss
+                _stacked.scss
+                _variables.scss
+                

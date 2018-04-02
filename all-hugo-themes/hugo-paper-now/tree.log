@@ -1,0 +1,74 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   acknowledgments.md
+|   |   |   references.md
+|   |   |   
+|   |   +---figure
+|   |   |       cell-culture-figure.md
+|   |   |       cell-culture-table.md
+|   |   |       phyllotaxis.md
+|   |   |       
+|   |   \---section
+|   |           abstract.md
+|   |           acknowledgments.md
+|   |           discussion.md
+|   |           introduction.md
+|   |           methods.md
+|   |           results.md
+|   |           
+|   \---static
+|       \---data
+|           +---cell-culture
+|           |       box-chart.png
+|           |       figure.png
+|           |       
+|           \---phyllotaxis
+|                   figure.png
+|                   index.html
+|                   README.md
+|                   viz.js
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---figure
+|   |       figure.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       js.html
+|   |       
+|   +---section
+|   |       section.html
+|   |       single.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    \---css
+            custom.css
+            

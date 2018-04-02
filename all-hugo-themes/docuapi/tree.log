@@ -1,0 +1,96 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   bundler.go
+|   LICENSE.md
+|   Makefile
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---assets
+|   +---images
+|   |       logo.psd
+|   |       
+|   +---javascripts
+|   |   \---app
+|   |           _lang.js
+|   |           
+|   \---stylesheets
+|           monokai.css
+|           _docuapi.scss
+|           
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |       errors.md
+|   |       errors.nn.md
+|   |       main.md
+|   |       main.nn.md
+|   |       
+|   +---layouts
+|   |   \---partials
+|   |           hook_head_end.html
+|   |           hook_left_sidebar_end.html
+|   |           
+|   \---static
+|           .gitkeep
+|           _headers
+|           
++---i18n
+|       en.yaml
+|       nn.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       hook_body_end.html
+|   |       hook_head_end.html
+|   |       hook_left_sidebar_end.html
+|   |       hook_left_sidebar_logo.html
+|   |       hook_left_sidebar_start.html
+|   |       js.html
+|   |       styles.html
+|   |       translations.html
+|   |       
+|   \---_default
+|           baseof.html
+|           
+\---static
+    +---images
+    |       logo.png
+    |       
+    \---slate
+        +---fonts
+        |       slate.eot
+        |       slate.svg
+        |       slate.ttf
+        |       slate.woff
+        |       slate.woff2
+        |       
+        +---images
+        |       logo.png
+        |       navbar.png
+        |       
+        +---javascripts
+        |       all.js
+        |       all_nosearch.js
+        |       
+        \---stylesheets
+                monokai.css
+                print.css
+                screen.css
+                

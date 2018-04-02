@@ -1,0 +1,67 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---slide
+|   |           01.md
+|   |           03.md
+|   |           05.md
+|   |           06.md
+|   |           07.md
+|   |           08.md
+|   |           10.md
+|   |           12.md
+|   |           
+|   \---static
+|       \---css
+|               custom.css
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       head.html
+|   |       js.html
+|   |       
+|   +---shortcodes
+|   |       jackie_why.html
+|   |       minion_ooo_left.html
+|   |       minion_ooo_right.html
+|   |       minion_smile_left.html
+|   |       minion_waaat_right.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---assets
+    |       Humor-SansOFL-1.0.txt
+    |       humorsans.css
+    |       remark-0.14.0.min.js
+    |       remark-minion.css
+    |       
+    \---bkgs
+            jackie-why.jpg
+            minion-kekeke-left.jpg
+            minion-ooo-left.jpg
+            minion-ooo-right.jpg
+            minion-waaat-right.jpg
+            

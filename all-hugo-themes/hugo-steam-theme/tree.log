@@ -1,0 +1,84 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   author.html
+|   |   |   footer.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   js.html
+|   |   |   navigation.html
+|   |   |   pagination.html
+|   |   |   share.html
+|   |   |   social.html
+|   |   |   
+|   |   \---themes
+|   |           blue-theme.html
+|   |           custom-theme.html
+|   |           green-theme.html
+|   |           orange-theme.html
+|   |           red-theme.html
+|   |           
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    |   favicon.ico
+    |   
+    +---css
+    |       github.css
+    |       screen.css
+    |       
+    +---fonts
+    |       icons.eot
+    |       icons.svg
+    |       icons.ttf
+    |       icons.woff
+    |       
+    +---img
+    |       appletouchicon.png
+    |       avatar.jpg
+    |       favicon.ico
+    |       
+    \---js
+            index.js
+            smooth-scroll.min.js
+            

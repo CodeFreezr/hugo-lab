@@ -1,0 +1,126 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       page.md
+|       
++---data
+|       Defaults.toml
+|       Formats.yaml
+|       Modules.toml
+|       Strings.yaml
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---content
+|   |   +---page
+|   |   |       about-me.md
+|   |   |       disclaimer.md
+|   |   |       license.md
+|   |   |       
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|           .gitignore
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |   |   error-404.html
+|   |   |   foot.html
+|   |   |   head.html
+|   |   |   homepage.html
+|   |   |   
+|   |   +---base
+|   |   |       favicon.html
+|   |   |       footer.html
+|   |   |       header.html
+|   |   |       metas.html
+|   |   |       scripts.html
+|   |   |       
+|   |   +---content
+|   |   |       h1-link-title.html
+|   |   |       h1-title.html
+|   |   |       pagination.html
+|   |   |       post-meta.html
+|   |   |       sidebar.html
+|   |   |       title-banner.html
+|   |   |       title-link.html
+|   |   |       title.html
+|   |   |       
+|   |   \---widgets
+|   |           categories.html
+|   |           recent_articles.html
+|   |           tags.html
+|   |           tag_cloud.html
+|   |           
+|   +---post
+|   |       single.boot.html
+|   |       single.hat.html
+|   |       summary.boot.html
+|   |       summary.hat.html
+|   |       
+|   +---section
+|   |       code.html
+|   |       
+|   +---shortcodes
+|   |       labels.html
+|   |       
+|   +---taxonomy
+|   |       topic.html
+|   |       topic.terms.html
+|   |       
+|   \---_default
+|           list.html
+|           section.html
+|           section.li.html
+|           single.boot.html
+|           single.content.html
+|           single.hat.html
+|           single.html
+|           summary.boot.html
+|           summary.content.html
+|           summary.hat.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    \---assets
+        +---css
+        |       github.css
+        |       gruvbox-dark.css
+        |       style.css
+        |       tomorrow-night.css
+        |       
+        \---js
+                highlight.pack.js
+                script.js
+                

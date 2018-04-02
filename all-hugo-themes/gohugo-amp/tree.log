@@ -1,0 +1,193 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       article.md
+|       default.md
+|       
++---data
+|       amp-modules.json
+|       
++---exampleSite
+|   |   .html-minifier-config.json
+|   |   config.toml
+|   |   package.json
+|   |   
+|   +---.bin
+|   |       styling.js
+|   |       
+|   +---content
+|   |   |   index.md
+|   |   |   
+|   |   +---articles
+|   |   |       article-one.md
+|   |   |       no-amp-example.md
+|   |   |       
+|   |   +---courses
+|   |   |       course-one.md
+|   |   |       
+|   |   \---recipes
+|   |           recipe-one.md
+|   |           
+|   +---data
+|   |   |   .gitkeep
+|   |   |   
+|   |   +---analytics
+|   |   |       triggers.json
+|   |   |       
+|   |   +---app
+|   |   |       banner.json
+|   |   |       
+|   |   \---organization
+|   |           contacts.json
+|   |           
+|   +---layouts
+|   |   +---partials
+|   |   |       stylesheet.html
+|   |   |       
+|   |   \---src
+|   |           styles.scss
+|   |           
+|   \---static
+|           amp-manifest.json
+|           base-styling.css
+|           script.js
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   sitemap.xml
+|   |   
+|   +---partials
+|   |   |   stylesheet.html
+|   |   |   stylesheet.regular.html
+|   |   |   
+|   |   +---amp
+|   |   |       adsense.html
+|   |   |       anim.html
+|   |   |       app-banner-header.html
+|   |   |       app-banner.html
+|   |   |       audio.html
+|   |   |       brid-player.html
+|   |   |       brightcove.html
+|   |   |       button.html
+|   |   |       dailymotion.html
+|   |   |       demo-accordion.html
+|   |   |       demo-carousel.html
+|   |   |       demo-sidebar.html
+|   |   |       facebook-video.html
+|   |   |       facebook.html
+|   |   |       fx-flying-carpet.html
+|   |   |       gfycat.html
+|   |   |       google-analytics.html
+|   |   |       google-vrview-image.html
+|   |   |       header.html
+|   |   |       hulu.html
+|   |   |       iframe.html
+|   |   |       image-lightbox.html
+|   |   |       image.html
+|   |   |       instagram.html
+|   |   |       jwplayer.html
+|   |   |       kaltura-player.html
+|   |   |       o2-player.html
+|   |   |       pinterest-follow.html
+|   |   |       pinterest-pin.html
+|   |   |       pinterest.html
+|   |   |       pixel.html
+|   |   |       reddit-comment.html
+|   |   |       reddit.html
+|   |   |       social-share.html
+|   |   |       soundcloud.html
+|   |   |       springboard-player.html
+|   |   |       twitter.html
+|   |   |       user-notification.html
+|   |   |       video.html
+|   |   |       vimeo.html
+|   |   |       vine.html
+|   |   |       youtube.html
+|   |   |       
+|   |   +---navigation
+|   |   |       breadcrumbs.html
+|   |   |       pagination.html
+|   |   |       
+|   |   +---seo
+|   |   |   |   above-the-fold.html
+|   |   |   |   main.html
+|   |   |   |   opengraph.html
+|   |   |   |   schema.html
+|   |   |   |   
+|   |   |   \---structured
+|   |   |           article.html
+|   |   |           breadcrumb.html
+|   |   |           course.html
+|   |   |           organization.html
+|   |   |           recipe.html
+|   |   |           website.html
+|   |   |           
+|   |   +---structure
+|   |   |       foot.html
+|   |   |       foot.no-amp.html
+|   |   |       head.html
+|   |   |       head.no-amp.html
+|   |   |       
+|   |   \---test
+|   |           lipsum.html
+|   |           
+|   +---shortcodes
+|   |       amp-adsense.html
+|   |       amp-anim.html
+|   |       amp-audio.html
+|   |       amp-brid-player.html
+|   |       amp-brightcove.html
+|   |       amp-button.html
+|   |       amp-dailymotion.html
+|   |       amp-facebook-video.html
+|   |       amp-facebook.html
+|   |       amp-fit-text.html
+|   |       amp-fx-flying-carpet.html
+|   |       amp-gfycat.html
+|   |       amp-google-vrview-image.html
+|   |       amp-hulu.html
+|   |       amp-iframe.html
+|   |       amp-image-lightbox.html
+|   |       amp-image.html
+|   |       amp-instagram.html
+|   |       amp-jwplayer.html
+|   |       amp-kaltura-player.html
+|   |       amp-lightbox.html
+|   |       amp-o2-player.html
+|   |       amp-pinterest-follow.html
+|   |       amp-pinterest-pin.html
+|   |       amp-pinterest.html
+|   |       amp-pixel.html
+|   |       amp-reddit-comment.html
+|   |       amp-reddit.html
+|   |       amp-social-share.html
+|   |       amp-soundcloud.html
+|   |       amp-springboard-player.html
+|   |       amp-twitter.html
+|   |       amp-user-notification.html
+|   |       amp-video.html
+|   |       amp-vimeo.html
+|   |       amp-vine.html
+|   |       amp-youtube.html
+|   |       partial.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+        .gitkeep
+        

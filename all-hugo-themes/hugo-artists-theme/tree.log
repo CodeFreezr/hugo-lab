@@ -1,0 +1,128 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   CHANGELOG.md
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---work
+|   |           proj-1.md
+|   |           proj-2.md
+|   |           proj-3.md
+|   |           proj-4.md
+|   |           proj-5.md
+|   |           proj-6.md
+|   |           proj-7.md
+|   |           proj-8.md
+|   |           
+|   +---data
+|   |       clients.toml
+|   |       work.toml
+|   |       
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   about.html
+|   |   |   clients.html
+|   |   |   contact.html
+|   |   |   footer.html
+|   |   |   form.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   work.html
+|   |   |   
+|   |   \---icons
+|   |           icon-back.html
+|   |           icon-browser.html
+|   |           icon-mouse.html
+|   |           icon-next.html
+|   |           icon-pencil.html
+|   |           icon-prev.html
+|   |           icon-quote-mark.html
+|   |           icon-video.html
+|   |           
+|   \---_default
+|           single.html
+|           
+\---static
+    +---css
+    |       all.css
+    |       
+    +---img
+    |   |   avatar.jpg
+    |   |   back-btn.png
+    |   |   hero-bg.jpg
+    |   |   logo.svg
+    |   |   
+    |   +---clients
+    |   |       face-aaroni.jpg
+    |   |       face-atariboy.jpg
+    |   |       face-jackiesaik.jpg
+    |   |       face-teleject.jpg
+    |   |       logo1.png
+    |   |       logo2.png
+    |   |       logo3.png
+    |   |       logo4.png
+    |   |       
+    |   \---work
+    |       +---proj-1
+    |       |       img1.jpg
+    |       |       img2.jpg
+    |       |       img3.jpg
+    |       |       img4.jpg
+    |       |       img5.jpg
+    |       |       thumb.jpg
+    |       |       
+    |       +---proj-2
+    |       |       CityIn-AntonSkvortsov.jpg
+    |       |       thumb.jpg
+    |       |       
+    |       +---proj-3
+    |       |       CrispyIcons-PetrasNargela.jpg
+    |       |       thumb.jpg
+    |       |       Thumbs.db
+    |       |       
+    |       +---proj-4
+    |       |       flatmobile-AyoubElred.jpg
+    |       |       thumb.jpg
+    |       |       
+    |       +---proj-5
+    |       |       freshitup-JieyuXiong.jpg
+    |       |       thumb.jpg
+    |       |       
+    |       +---proj-6
+    |       |       thumb.jpg
+    |       |       TimeLinePage-SergeyValiukh.jpg
+    |       |       
+    |       +---proj-7
+    |       |       img0.jpg
+    |       |       img1.jpg
+    |       |       img2.jpg
+    |       |       img3.jpg
+    |       |       img4.jpg
+    |       |       thumb.jpg
+    |       |       
+    |       \---proj-8
+    |               stripes-co-NickZoutendijk.jpg
+    |               thumb.jpg
+    |               
+    \---js
+            functions.js
+            

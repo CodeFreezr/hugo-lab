@@ -1,0 +1,81 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   LICENSE.md
+|   |   README.md
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   +---post
+|   |   |       vivamus-lacus-mauris.md
+|   |   |       
+|   |   \---service
+|   |           service1.md
+|   |           service2.md
+|   |           service3.md
+|   |           service4.md
+|   |           
+|   \---data
+|           recentworks.json
+|           
++---images
+|       complete.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       single.html
+|   |       
+|   +---partials
+|   |       analyticstracking.html
+|   |       clients.html
+|   |       disqus.html
+|   |       download.html
+|   |       footer.html
+|   |       header.html
+|   |       home.html
+|   |       menu.html
+|   |       recentworks.html
+|   |       services.html
+|   |       sharethis.html
+|   |       subheader.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       styles.css
+    |       
+    +---images
+    |       avatar_man.png
+    |       avatar_woman.png
+    |       bg_head.jpg
+    |       gt_favicon.png
+    |       guy.jpg
+    |       mac.jpg
+    |       s1.jpg
+    |       s2.jpg
+    |       sample_clients.png
+    |       
+    \---js
+            html5shiv.js
+            template.js
+            

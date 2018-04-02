@@ -1,0 +1,58 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE
+|   README.md
+|   simple-a.png
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   rss.xml
+|   |   
+|   +---chrome
+|   |       about.html
+|   |       analytics.html
+|   |       disqus.html
+|   |       footer.html
+|   |       header.html
+|   |       includes.html
+|   |       menu.html
+|   |       meta.html
+|   |       
+|   +---indexes
+|   |       indexes.html
+|   |       tag.html
+|   |       
+|   +---shortcodes
+|   |       endbox.html
+|   |       fig.html
+|   |       startbox.html
+|   |       
+|   \---_default
+|           indexes.html
+|           li.html
+|           single.html
+|           
+\---static
+    |   404.html
+    |   
+    +---css
+    |       fonts.css
+    |       milk-responsive.min.css
+    |       milk.min.css
+    |       style.css
+    |       
+    \---images
+            alexfinn.ico
+            letter-a.png
+            

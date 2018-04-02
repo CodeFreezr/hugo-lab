@@ -1,0 +1,87 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       .gitkeep
+|   |       
+|   +---content
+|   |       .gitkeep
+|   |       
+|   +---data
+|   |   \---faq
+|   |       \---groups
+|   |               01-basics.toml
+|   |               02-mobile.toml
+|   |               03-account.toml
+|   |               04-payments.toml
+|   |               05-privacy.toml
+|   |               06-delivery.toml
+|   |               
+|   \---static
+|       +---css
+|       |       blue.css
+|       |       reset.css
+|       |       style.css
+|       |       
+|       +---js
+|       |       jquery-2.1.1.js
+|       |       jquery.mobile.custom.min.js
+|       |       main.js
+|       |       modernizr.js
+|       |       
+|       \---scss
+|           |   style.scss
+|           |   
+|           \---partials
+|                   _layout.scss
+|                   _mixins.scss
+|                   _variables.scss
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       blue.css
+    |       reset.css
+    |       style.css
+    |       
+    +---js
+    |       jquery-2.1.1.js
+    |       jquery.mobile.custom.min.js
+    |       main.js
+    |       modernizr.js
+    |       
+    \---scss
+        |   style.scss
+        |   
+        \---partials
+                _layout.scss
+                _mixins.scss
+                _variables.scss
+                

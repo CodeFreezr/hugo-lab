@@ -1,0 +1,121 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       portfolio.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       index.md
+|   |   |       
+|   |   +---contact
+|   |   |       index.md
+|   |   |       
+|   |   \---post
+|   |           work1.md
+|   |           work10.md
+|   |           work11.md
+|   |           work2.md
+|   |           work3.md
+|   |           work4.md
+|   |           work5.md
+|   |           work7.md
+|   |           work8.md
+|   |           work9.md
+|   |           
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|       \---img
+|           |   about.jpg
+|           |   favicon.ico
+|           |   
+|           \---portfolio
+|                   a4-paper.jpg
+|                   bike1.jpg
+|                   birds.jpg
+|                   bridge1.jpg
+|                   budapest.jpg
+|                   business-card-26.jpg
+|                   business-card.jpg
+|                   camera1.jpg
+|                   envelope-brand.jpg
+|                   gravity-paper.jpg
+|                   ipad-air-2.jpg
+|                   label-clothes.jpg
+|                   logs1.jpg
+|                   paper-presentation.jpg
+|                   railroad-forest1.jpg
+|                   sfo.jpg
+|                   trifold.jpg
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       single.html
+|   |       
+|   +---contact
+|   |       single.html
+|   |       
+|   +---partials
+|   |       category.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       pagination.html
+|   |       portfolio.html
+|   |       scripts.html
+|   |       tag.html
+|   |       topnavigation.html
+|   |       
+|   +---taxonomy
+|   |       category.html
+|   |       tag.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           taxonomy.html
+|           
+\---static
+    +---css
+    |   |   custom.css
+    |   |   font-awesome.min.css
+    |   |   style.css
+    |   |   
+    |   \---fonts
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           fontawesome-webfont.woff2
+    |           FontAwesome.otf
+    |           
+    +---img
+    |       favicon.ico
+    |       
+    \---js
+            fitvids.js
+            jquery.min.js
+            jquerymigrate.js
+            production.min.js
+            

@@ -1,0 +1,83 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       _index.md
+|   |   |       
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       list.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       js.html
+|   |       latest-posts.html
+|   |       nav.html
+|   |       pagination.html
+|   |       post-list.html
+|   |       profile.html
+|   |       share.html
+|   |       social.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       highlight.css
+    |       monosocialiconsfont.css
+    |       style.css
+    |       
+    +---fonts
+    |       icons.svg
+    |       icons.ttf
+    |       icons.woff
+    |       MonoSocialIconsFont-1.10.eot
+    |       MonoSocialIconsFont-1.10.otf
+    |       MonoSocialIconsFont-1.10.svg
+    |       MonoSocialIconsFont-1.10.ttf
+    |       MonoSocialIconsFont-1.10.woff
+    |       
+    +---images
+    |       avatar.png
+    |       avatar@2x.png
+    |       favicon.ico
+    |       
+    \---js
+            highlight.js
+            main.js
+            

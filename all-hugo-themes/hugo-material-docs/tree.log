@@ -1,0 +1,84 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   index.md
+|   |   |   
+|   |   +---adding-content
+|   |   |       index.md
+|   |   |       
+|   |   +---getting-started
+|   |   |       index.md
+|   |   |       
+|   |   +---license
+|   |   |       index.md
+|   |   |       
+|   |   \---roadmap
+|   |           index.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       drawer.html
+|   |       footer.html
+|   |       footer_js.html
+|   |       head.html
+|   |       header.html
+|   |       nav.html
+|   |       nav_link.html
+|   |       
+|   +---shortcodes
+|   |       note.html
+|   |       warning.html
+|   |       
+|   \---_default
+|           single.html
+|           __list.html
+|           
+\---static
+    +---fonts
+    |       icon.eot
+    |       icon.svg
+    |       icon.ttf
+    |       icon.woff
+    |       
+    +---images
+    |       colors.png
+    |       favicon.ico
+    |       logo.png
+    |       screen.png
+    |       
+    +---javascripts
+    |       application.js
+    |       modernizr.js
+    |       
+    \---stylesheets
+        |   application.css
+        |   palettes.css
+        |   temporary.css
+        |   
+        \---highlight
+                highlight.css
+                

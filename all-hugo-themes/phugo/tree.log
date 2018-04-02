@@ -1,0 +1,145 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---data
+|       .gitkeep
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       default.md
+|   |       
+|   +---content
+|   |   |   album-nine_index.md
+|   |   |   
+|   |   +---album-eight
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-eleven
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-five
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-four
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-one
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-seven
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-six
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-ten
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-three
+|   |   |       _index.md
+|   |   |       
+|   |   +---album-twelve
+|   |   |       _index.md
+|   |   |       
+|   |   \---album-two
+|   |           _index.md
+|   |           
+|   +---data
+|   |       .gitkeep
+|   |       
+|   \---static
+|       \---assets
+|           +---css
+|           |   |   font-awesome.min.css
+|           |   |   ie8.css
+|           |   |   ie9.css
+|           |   |   main.css
+|           |   |   
+|           |   \---images
+|           |           arrow.svg
+|           |           close.svg
+|           |           spinner.svg
+|           |           
+|           +---fonts
+|           |       fontawesome-webfont.eot
+|           |       fontawesome-webfont.svg
+|           |       fontawesome-webfont.ttf
+|           |       fontawesome-webfont.woff
+|           |       fontawesome-webfont.woff2
+|           |       FontAwesome.otf
+|           |       
+|           \---js
+|               |   jquery.min.js
+|               |   jquery.poptrox.min.js
+|               |   main.js
+|               |   skel.min.js
+|               |   util.js
+|               |   
+|               \---ie
+|                       html5shiv.js
+|                       respond.min.js
+|                       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       lang.html
+|   |       navigation.html
+|   |       scripts.html
+|   |       
+|   +---shortcodes
+|   |       photo.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           section.html
+|           
+\---static
+    \---assets
+        +---css
+        |   |   font-awesome.min.css
+        |   |   ie8.css
+        |   |   ie9.css
+        |   |   main.css
+        |   |   
+        |   \---images
+        |           arrow.svg
+        |           close.svg
+        |           spinner.svg
+        |           
+        +---fonts
+        |       fontawesome-webfont.eot
+        |       fontawesome-webfont.svg
+        |       fontawesome-webfont.ttf
+        |       fontawesome-webfont.woff
+        |       fontawesome-webfont.woff2
+        |       FontAwesome.otf
+        |       
+        \---js
+            |   jquery.min.js
+            |   jquery.poptrox.min.js
+            |   main.js
+            |   skel.min.js
+            |   util.js
+            |   
+            \---ie
+                    html5shiv.js
+                    respond.min.js
+                    

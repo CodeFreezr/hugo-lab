@@ -1,0 +1,92 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   license.txt
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---assets
+|       cover.jpg
+|       mockup-tablet.jpg
+|       screenshot-6+.jpg
+|       screenshot-ipadpro-landscape.jpg
+|       screenshot-ipadpro.jpg
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       \---post
+|               creating-a-new-theme.md
+|               goisforlovers.md
+|               hugoisforlovers.md
+|               migrate-from-jekyll.md
+|               
++---i18n
+|       bg.yaml
+|       de.yaml
+|       en.yaml
+|       fr.yaml
+|       pt.yaml
+|       ru.yaml
+|       
++---images
+|       screenshot-original.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   robots.txt
+|   |   
+|   +---partials
+|   |       cookie-consent.html
+|   |       disqus.html
+|   |       head-custom.html
+|   |       head-meta.html
+|   |       meta-categories.html
+|   |       meta-tags.html
+|   |       sharing-icons.html
+|   |       sidebar.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           summary.html
+|           
++---scripts
+|       .babelrc
+|       .bowerrc
+|       bower.json
+|       config.yml
+|       gulpfile.babel.js
+|       package.json
+|       yarn.lock
+|       
++---source
+|   +---js
+|   |       app.js
+|   |       
+|   \---scss
+|       |   app.scss
+|       |   _settings.scss
+|       |   
+|       \---components
+|               .gitkeep.txt
+|               
+\---static
+    +---css
+    |       app.css
+    |       cookieconsent.min.css
+    |       
+    \---js
+            app.js
+            cookieconsent.min.js
+            

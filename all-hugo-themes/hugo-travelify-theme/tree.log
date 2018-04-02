@@ -1,0 +1,156 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   contact.md
+|   |   |   
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           go-is-for-lovers.md
+|   |           hugo-is-for-lovers.md
+|   |           hugo-travelify-theme-features.md
+|   |           linked-post.md
+|   |           migrate-from-jekyll.md
+|   |           this-post-has-no-body.md
+|   |           
+|   +---data
+|   |       l10n.toml
+|   |       
+|   \---static
+|       |   new-york-featured.jpg
+|       |   screenshot-1.png
+|       |   screenshot-2.png
+|       |   screenshot-3.png
+|       |   
+|       \---banners
+|               7148951717_9bbf185db3_h-1018x460.jpg
+|               featured-4.jpg
+|               featured-5.jpg
+|               hugo-travelify-theme.jpg
+|               new-york-featured.jpg
+|               placeholder.png
+|               Spain-Plaza-de-Cibeles-Madrid-1018x460.jpg
+|               Spain-Plaza-de-Cibeles-Madrid-670x300.jpg
+|               spain6-1018x460.jpg
+|               
++---images
+|       7148951717_9bbf185db3_h-1018x460.jpg
+|       7148951717_9bbf185db3_h-1018x460.png
+|       featured-4.jpg
+|       featured-4.png
+|       featured-5.jpg
+|       featured-5.png
+|       hugo-travelify-theme.jpg
+|       hugo-travelify-theme.png
+|       placeholder.png
+|       screenshot-1.png
+|       screenshot-2.png
+|       screenshot-3.png
+|       screenshot.png
+|       Spain-Plaza-de-Cibeles-Madrid-1018x460.jpg
+|       Spain-Plaza-de-Cibeles-Madrid-670x300.jpg
+|       spain6-1018x460.jpg
+|       spain6-1018x460.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   rss.xml
+|   |   
+|   +---partials
+|   |   |   article_footer.html
+|   |   |   article_header.html
+|   |   |   article_list.html
+|   |   |   footer.html
+|   |   |   footer_js.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   nav.html
+|   |   |   pagination.html
+|   |   |   prev_next_post.html
+|   |   |   share.html
+|   |   |   single_article.html
+|   |   |   slider.html
+|   |   |   widgets.html
+|   |   |   
+|   |   \---widgets
+|   |           archive.html
+|   |           author.html
+|   |           categories.html
+|   |           facebook_like.html
+|   |           mailchimp.html
+|   |           recent_articles.html
+|   |           search.html
+|   |           tag_cloud.html
+|   |           
+|   \---_default
+|           list.html
+|           single.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    +---css
+    |       admin-bar.min.css
+    |       dashicons.min.css
+    |       font-awesome.min.css
+    |       jetpack.css
+    |       style.css
+    |       
+    +---fancybox
+    |   |   blank.gif
+    |   |   fancybox_loading.gif
+    |   |   fancybox_loading@2x.gif
+    |   |   fancybox_overlay.png
+    |   |   fancybox_sprite.png
+    |   |   fancybox_sprite@2x.png
+    |   |   jquery.fancybox.css
+    |   |   jquery.fancybox.js
+    |   |   jquery.fancybox.pack.js
+    |   |   
+    |   \---helpers
+    |           fancybox_buttons.png
+    |           jquery.fancybox-buttons.css
+    |           jquery.fancybox-buttons.js
+    |           jquery.fancybox-media.js
+    |           jquery.fancybox-thumbs.css
+    |           jquery.fancybox-thumbs.js
+    |           
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    +---images
+    |       background.png
+    |       
+    \---js
+            admin-bar.min.js
+            functions.min.js
+            jquery-migrate.min.js
+            jquery.cycle.all.min.js
+            jquery.js
+            script.js
+            slider-settings.min.js
+            wp-embed.min.js
+            wp-emoji-release.min.js
+            

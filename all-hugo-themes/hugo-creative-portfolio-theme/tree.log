@@ -1,0 +1,121 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       portfolio.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       _index.md
+|   |   |       
+|   |   +---contact
+|   |   |       _index.md
+|   |   |       
+|   |   \---portfolio
+|   |           work1.md
+|   |           work10.md
+|   |           work11.md
+|   |           work2.md
+|   |           work3.md
+|   |           work4.md
+|   |           work5.md
+|   |           work6.md
+|   |           work7.md
+|   |           work8.md
+|   |           work9.md
+|   |           
+|   \---static
+|       \---img
+|           |   about.jpg
+|           |   favicon.png
+|           |   
+|           \---portfolio
+|                   a4-paper.jpg
+|                   business-card-26.jpg
+|                   business-card.jpg
+|                   envelope-brand.jpg
+|                   gravity-paper.jpg
+|                   ipad-air-2.jpg
+|                   label-clothes.jpg
+|                   paper-presentation.jpg
+|                   trifold.jpg
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       list.html
+|   |       
+|   +---contact
+|   |       list.html
+|   |       
+|   +---partials
+|   |       attribution.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       mobile_nav_toggle.html
+|   |       portfolio.html
+|   |       scripts.html
+|   |       sidebar.html
+|   |       social_buttons_in_contact.html
+|   |       social_buttons_in_sidebar.html
+|   |       
+|   \---_default
+|           baseof.html
+|           single.html
+|           
+\---static
+    +---css
+    |   |   bootstrap.min.css
+    |   |   bootstrap.min.css.map
+    |   |   custom.css
+    |   |   font-awesome.min.css
+    |   |   helper.css
+    |   |   owl.carousel.css
+    |   |   owl.theme.css
+    |   |   owl.transitions.css
+    |   |   style.blue.css
+    |   |   style.default.css
+    |   |   style.green.css
+    |   |   style.pink.css
+    |   |   style.red.css
+    |   |   style.sea.css
+    |   |   style.violet.css
+    |   |   
+    |   \---fonts
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           fontawesome-webfont.woff2
+    |           FontAwesome.otf
+    |           
+    \---js
+            bootstrap.min.js
+            ekko-lightbox.js
+            front.js
+            imagesloaded.pkgd.min.js
+            jquery.cookie.js
+            jquery.min.js
+            jquery.scrollTo.min.js
+            main.js
+            masonry.pkgd.min.js
+            owl.carousel.min.js
+            

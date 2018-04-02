@@ -1,0 +1,73 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .npmignore
+|   Gruntfile.js
+|   LICENSE.md
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   yarn.lock
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       full_blog.png
+|       full_post.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       author.html
+|   |       comments.html
+|   |       criticalpath.html
+|   |       follow.html
+|   |       footer.html
+|   |       header.html
+|   |       navigation.html
+|   |       pagination.html
+|   |       related.html
+|   |       share.html
+|   |       subscription.html
+|   |       toc.html
+|   |       
+|   +---shortcodes
+|   |       alert.html
+|   |       gist.html
+|   |       gistf.html
+|   |       imgblur.html
+|   |       
+|   \---_default
+|           li.html
+|           list.html
+|           single.html
+|           
++---src
+|   +---js
+|   |   |   script.js
+|   |   |   
+|   |   \---vendor
+|   |           gist-embed.min.js
+|   |           
+|   \---sass
+|           style.scss
+|           _fonts.scss
+|           
+\---static
+    +---css
+    |       dependencies.css
+    |       main.css
+    |       style.css
+    |       
+    \---js
+            dependencies.js
+            main.js
+            script.js
+            

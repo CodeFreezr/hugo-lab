@@ -1,0 +1,238 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .eslintignore
+|   .eslintrc.yml
+|   .gitignore
+|   .travis.yml
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   contact.md
+|   |   |   faq.md
+|   |   |   
+|   |   \---blog
+|   |           creating-a-new-theme.md
+|   |           go-is-for-lovers.md
+|   |           hugo-is-for-lovers.md
+|   |           linked-post.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   +---data
+|   |   +---carousel
+|   |   |       customizable.yaml
+|   |   |       design.yaml
+|   |   |       features.yaml
+|   |   |       multipurpose.yaml
+|   |   |       
+|   |   +---clients
+|   |   |       1.yaml
+|   |   |       2.yaml
+|   |   |       3.yaml
+|   |   |       4.yaml
+|   |   |       5.yaml
+|   |   |       6.yaml
+|   |   |       
+|   |   +---features
+|   |   |       consulting.yaml
+|   |   |       email.yaml
+|   |   |       print.yaml
+|   |   |       seo.yaml
+|   |   |       uiux.yaml
+|   |   |       webdesign.yaml
+|   |   |       
+|   |   \---testimonials
+|   |           1.yaml
+|   |           2.yaml
+|   |           3.yaml
+|   |           4.yaml
+|   |           5.yaml
+|   |           
+|   \---static
+|       \---img
+|           |   apple-touch-icon.png
+|           |   favicon.ico
+|           |   logo-small.png
+|           |   logo.png
+|           |   
+|           +---banners
+|           |       banner-1.jpg
+|           |       banner-2.jpg
+|           |       banner-3.jpg
+|           |       banner-4.jpg
+|           |       banner-5.jpg
+|           |       
+|           +---carousel
+|           |       template-easy-code.png
+|           |       template-easy-customize-less.png
+|           |       template-easy-customize.png
+|           |       template-homepage.png
+|           |       template-mac.png
+|           |       template-tablets-2.png
+|           |       template-tablets.png
+|           |       
+|           +---clients
+|           |       customer-1.png
+|           |       customer-2.png
+|           |       customer-3.png
+|           |       customer-4.png
+|           |       customer-5.png
+|           |       customer-6.png
+|           |       
+|           \---testimonials
+|                   person-1.jpg
+|                   person-2.jpg
+|                   person-3.png
+|                   person-4.jpg
+|                   
++---i18n
+|       ca.yaml
+|       de.yaml
+|       en.yaml
+|       es.yaml
+|       fr.yaml
+|       nl.yaml
+|       pt-br.yaml
+|       ru.yaml
+|       sv.yaml
+|       zh.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---archetypes
+|   |       default.md
+|   |       
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |   |   breadcrumbs.html
+|   |   |   carousel.html
+|   |   |   clients.html
+|   |   |   contact.html
+|   |   |   features.html
+|   |   |   footer.html
+|   |   |   head.html
+|   |   |   map.html
+|   |   |   nav.html
+|   |   |   page.html
+|   |   |   recent_posts.html
+|   |   |   scripts.html
+|   |   |   see_more.html
+|   |   |   sidebar.html
+|   |   |   testimonials.html
+|   |   |   top.html
+|   |   |   
+|   |   \---widgets
+|   |           categories.html
+|   |           search.html
+|   |           tags.html
+|   |           
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       animate.css
+    |       custom.css
+    |       owl.carousel.css
+    |       owl.theme.css
+    |       style.blue.css
+    |       style.default.css
+    |       style.green.css
+    |       style.marsala.css
+    |       style.pink.css
+    |       style.red.css
+    |       style.turquoise.css
+    |       style.violet.css
+    |       
+    +---img
+    |       apple-touch-icon.png
+    |       banner.jpg
+    |       banner2.jpg
+    |       basketsquare.jpg
+    |       blog-avatar.jpg
+    |       blog-avatar2.jpg
+    |       blog-medium.jpg
+    |       blog-recent-2.jpg
+    |       blog-recent-3.jpg
+    |       blog-recent.jpg
+    |       blog.jpg
+    |       blog2.jpg
+    |       detailbig1.jpg
+    |       detailbig2.jpg
+    |       detailbig3.jpg
+    |       detailsquare.jpg
+    |       detailsquare2.jpg
+    |       detailsquare3.jpg
+    |       favicon.ico
+    |       fixed-background-1.jpg
+    |       fixed-background-2.jpg
+    |       grabbing.png
+    |       home-try.jpg
+    |       home.jpg
+    |       homepage-slider.jpg
+    |       logo-small.png
+    |       logo.png
+    |       main-slider1.jpg
+    |       main-slider2.jpg
+    |       main-slider3.jpg
+    |       main-slider4.jpg
+    |       marker.png
+    |       men.jpg
+    |       page-1.jpg
+    |       page-2.jpg
+    |       page-3.jpg
+    |       payment.png
+    |       photogrid.jpg
+    |       placeholder.png
+    |       portfolio-1.jpg
+    |       portfolio-2.jpg
+    |       portfolio-3.jpg
+    |       portfolio-4.jpg
+    |       portfolio-5.jpg
+    |       portfolio-6.jpg
+    |       portfolio-7.jpg
+    |       portfolio-8.jpg
+    |       portfolio-9.jpg
+    |       product1.jpg
+    |       product2.jpg
+    |       product3.jpg
+    |       product4.jpg
+    |       slide1.jpg
+    |       slide2.jpg
+    |       slide3.jpg
+    |       slide4.jpg
+    |       slide5.jpg
+    |       slide6.jpg
+    |       texture-bw.png
+    |       texture-turquoise.png
+    |       texture-violet.png
+    |       women.jpg
+    |       
+    \---js
+            front.js
+            gmaps.init.js
+            hpneo.gmaps.js
+            owl.carousel.min.js
+            respond.min.js
+            

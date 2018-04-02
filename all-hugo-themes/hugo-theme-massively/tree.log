@@ -1,0 +1,139 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CONTRIBUTING.md
+|   gulpfile.js
+|   LICENSE
+|   package-lock.json
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---exampleSite
+|   |   config-prod.toml
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---post
+|   |           post.1.md
+|   |           post.2.md
+|   |           post.3.md
+|   |           post.4.md
+|   |           post.5.md
+|   |           post.6.md
+|   |           post.7.md
+|   |           post.8.md
+|   |           post.9.md
+|   |           post.md
+|   |           
+|   \---data
+|           contactinfo.yaml
+|           intro.yaml
+|           post.yaml
+|           social.yaml
+|           
++---images
+|       device-screenshots.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   copyright.html
+|   |   |   header.html
+|   |   |   htmlhead.html
+|   |   |   intro.html
+|   |   |   nav.html
+|   |   |   postcustom.html
+|   |   |   
+|   |   +---footer
+|   |   |       index.html
+|   |   |       
+|   |   +---posts
+|   |   |       featured.html
+|   |   |       list.html
+|   |   |       pagination.html
+|   |   |       
+|   |   \---scripts
+|   |           disqus.html
+|   |           googleanalytics.html
+|   |           index.html
+|   |           
+|   \---_default
+|           single.html
+|           
+\---static
+    +---assets
+    |   +---css
+    |   |       font-awesome.min.css
+    |   |       main.css
+    |   |       noscript.css
+    |   |       
+    |   +---fonts
+    |   |       fontawesome-webfont.eot
+    |   |       fontawesome-webfont.svg
+    |   |       fontawesome-webfont.ttf
+    |   |       fontawesome-webfont.woff
+    |   |       fontawesome-webfont.woff2
+    |   |       FontAwesome.otf
+    |   |       
+    |   +---js
+    |   |       jquery.min.js
+    |   |       jquery.scrollex.min.js
+    |   |       jquery.scrolly.min.js
+    |   |       main.js
+    |   |       skel.min.js
+    |   |       util.js
+    |   |       
+    |   \---sass
+    |       |   main.scss
+    |       |   noscript.scss
+    |       |   
+    |       +---base
+    |       |       _page.scss
+    |       |       _typography.scss
+    |       |       
+    |       +---components
+    |       |       _box.scss
+    |       |       _button.scss
+    |       |       _form.scss
+    |       |       _icon.scss
+    |       |       _image.scss
+    |       |       _list.scss
+    |       |       _pagination.scss
+    |       |       _section.scss
+    |       |       _table.scss
+    |       |       
+    |       +---layout
+    |       |       _footer.scss
+    |       |       _header.scss
+    |       |       _intro.scss
+    |       |       _main.scss
+    |       |       _nav.scss
+    |       |       _navPanel.scss
+    |       |       _wrapper.scss
+    |       |       
+    |       \---libs
+    |               _functions.scss
+    |               _mixins.scss
+    |               _skel.scss
+    |               _vars.scss
+    |               
+    \---images
+            bg.jpg
+            overlay.png
+            pic01.jpg
+            pic02.jpg
+            pic03.jpg
+            pic04.jpg
+            pic05.jpg
+            pic06.jpg
+            pic07.jpg
+            pic08.jpg
+            pic09.jpg
+            

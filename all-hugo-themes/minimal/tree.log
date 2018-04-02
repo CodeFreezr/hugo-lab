@@ -1,0 +1,58 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       post.md
+|       project.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       +---post
+|       |       creating-a-new-theme.md
+|       |       goisforlovers.md
+|       |       hugoisforlovers.md
+|       |       migrate-from-jekyll.md
+|       |       
+|       \---project
+|               project1.md
+|               project2.md
+|               project3.md
+|               project4.md
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       body-open.html
+|   |       css.html
+|   |       footer.html
+|   |       head-open.html
+|   |       header.html
+|   |       js.html
+|   |       list-item.html
+|   |       paginator.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    \---css
+            main.css
+            

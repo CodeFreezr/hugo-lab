@@ -1,0 +1,79 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|       |   .gitignore
+|       |   
+|       \---images
+|               default.jpg
+|               logo.svg
+|               
++---images
+|       dgraph-black.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   
+|   +---partials
+|   |       author_detail.html
+|   |       author_image.html
+|   |       author_name.html
+|   |       author_profile.html
+|   |       community-footer.html
+|   |       editor_profile.html
+|   |       footer.html
+|   |       header.html
+|   |       page_header.html
+|   |       runnable-modal.html
+|   |       
+|   +---shortcodes
+|   |       runnable.html
+|   |       
+|   \---_default
+|           li.html
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       runnable-custom.css
+    |       runnable.css
+    |       styles.css
+    |       
+    +---images
+    |       dgraph-black.png
+    |       
+    \---js
+            clipboard.min.js
+            custom.js
+            jquery-2.x.min.js
+            modernizr.min.js
+            runnable.js
+            script.min.js
+            

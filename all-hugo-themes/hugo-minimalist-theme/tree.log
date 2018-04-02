@@ -1,0 +1,81 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           go-is-for-lovers.md
+|   |           hugo-is-for-lovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   +---data
+|   |       l10n.toml
+|   |       
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       article-header.html
+|   |       article-list.html
+|   |       article-share.html
+|   |       author.html
+|   |       footer.html
+|   |       header.html
+|   |       pagination.html
+|   |       social.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    |   apple-touch-icon.png
+    |   favicon.ico
+    |   
+    +---css
+    |   |   styles.css
+    |   |   
+    |   \---highlightjs
+    |           monokai.css
+    |           
+    +---font
+    |       fontello.eot
+    |       fontello.svg
+    |       fontello.ttf
+    |       fontello.woff
+    |       
+    +---img
+    |       desk.jpg
+    |       profile-image.png
+    |       
+    \---js
+        |   plugins.js
+        |   
+        \---vendor
+                jquery-1.11.0.min.js
+                jquery.min.js
+                modernizr-2.8.0.min.js
+                

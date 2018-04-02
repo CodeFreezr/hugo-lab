@@ -1,0 +1,113 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   LICENSE.txt
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       blog.md
+|       default.md
+|       projects.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   contact.md
+|   |   |   
+|   |   +---blog
+|   |   |       coffee-ipsum.md
+|   |   |       hipster-ipsum.md
+|   |   |       startup-ipsum.md
+|   |   |       
+|   |   \---projects
+|   |           Design.md
+|   |           Photography.md
+|   |           Writing.md
+|   |           
+|   \---static
+|       \---img
+|               camera.jpg
+|               fav.ico
+|               plant.jpg
+|               profile.jpg
+|               workday.jpg
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---blog
+|   |       list.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |       blogsection.html
+|   |       footer.html
+|   |       header.html
+|   |       li.html
+|   |       nav-list.html
+|   |       nav-single.html
+|   |       projects.html
+|   |       social.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
++---sass
+|       dark-style.sass
+|       light-style.sass
+|       
+\---static
+    +---css
+    |       dark-style.css
+    |       font-awesome.min.css
+    |       light-style.css
+    |       nunito_sans.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       NunitoSans-Black.ttf
+    |       NunitoSans-BlackItalic.ttf
+    |       NunitoSans-Bold.ttf
+    |       NunitoSans-BoldItalic.ttf
+    |       NunitoSans-ExtraBold.ttf
+    |       NunitoSans-ExtraBoldItalic.ttf
+    |       NunitoSans-ExtraLight.ttf
+    |       NunitoSans-ExtraLightItalic.ttf
+    |       NunitoSans-Italic.ttf
+    |       NunitoSans-Light.ttf
+    |       NunitoSans-LightItalic.ttf
+    |       NunitoSans-Regular.ttf
+    |       NunitoSans-SemiBold.ttf
+    |       NunitoSans-SemiBoldItalic.ttf
+    |       OFL.txt
+    |       
+    +---img
+    |       favicon.ico
+    |       workday.jpg
+    |       
+    \---js
+            jquery-3.3.1.min.js
+            moment-timezone-with-data-2012-2022.js
+            moment-timezone.js
+            moment.js
+            

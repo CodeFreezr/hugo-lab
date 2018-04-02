@@ -1,0 +1,119 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   CHANGELOG.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       _index.md
+|   |   |       
+|   |   \---post
+|   |           formulas-with-mathjax.md
+|   |           linked-post.md
+|   |           markdown-cheat-sheet.md
+|   |           using-the-gallery-shortcode.md
+|   |           
+|   +---data
+|   |       l10n.toml
+|   |       
+|   \---static
+|       \---banners
+|               placeholder.png
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   article_footer.html
+|   |   |   article_header.html
+|   |   |   article_list.html
+|   |   |   footer.html
+|   |   |   footer_custom_js.html
+|   |   |   footer_js.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   head_custom.html
+|   |   |   pagination.html
+|   |   |   prev_next_post.html
+|   |   |   profile.html
+|   |   |   sidebar.html
+|   |   |   single_article.html
+|   |   |   social.html
+|   |   |   
+|   |   \---widgets
+|   |           categories.html
+|   |           recent_articles.html
+|   |           tags.html
+|   |           tag_cloud.html
+|   |           
+|   +---shortcodes
+|   |       gallery.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           summary.html
+|           terms.html
+|           
+\---static
+    |   apple-touch-icon.png
+    |   favicon.ico
+    |   
+    +---css
+    |   |   font-awesome.min.css
+    |   |   monokai.css
+    |   |   style.css
+    |   |   
+    |   \---images
+    |           avatar.png
+    |           logo.png
+    |           thumb-default-small.png
+    |           
+    +---fancybox
+    |   |   blank.gif
+    |   |   fancybox_loading.gif
+    |   |   fancybox_loading@2x.gif
+    |   |   fancybox_overlay.png
+    |   |   fancybox_sprite.png
+    |   |   fancybox_sprite@2x.png
+    |   |   jquery.fancybox.css
+    |   |   jquery.fancybox.js
+    |   |   jquery.fancybox.pack.js
+    |   |   
+    |   \---helpers
+    |           fancybox_buttons.png
+    |           jquery.fancybox-buttons.css
+    |           jquery.fancybox-buttons.js
+    |           jquery.fancybox-media.js
+    |           jquery.fancybox-thumbs.css
+    |           jquery.fancybox-thumbs.js
+    |           
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    \---js
+            script.js
+            

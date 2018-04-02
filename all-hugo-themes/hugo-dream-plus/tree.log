@@ -1,0 +1,139 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       cards.md
+|       post.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   404.md
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           GCI.md
+|   |           mos.md
+|   |           netjsonconfig.md
+|   |           
+|   \---static
+|       \---images
+|           |   avatar.jpg
+|           |   
+|           +---gci
+|           |       css-html.png
+|           |       gci-thumb.png
+|           |       gci-wide.png
+|           |       git.png
+|           |       linux.png
+|           |       markdown.png
+|           |       restful-api.jpg
+|           |       virtualbox.png
+|           |       virtualenv.png
+|           |       website.png
+|           |       yaml.png
+|           |       
+|           +---mos
+|           |       device.png
+|           |       flash.png
+|           |       intro-small.jpeg
+|           |       intro-untouched.jpg
+|           |       mos.png
+|           |       wifi.png
+|           |       wiring-real.jpg
+|           |       wiring.jpg
+|           |       
+|           \---netjsonconfig
+|                   django-v-fixed.png
+|                   django2.png
+|                   logged-in.png
+|                   login.png
+|                   migrate.png
+|                   my-fix.png
+|                   runserver.png
+|                   Success!.png
+|                   superuser.png
+|                   up-and-running.png
+|                   
++---i18n
+|       en.toml
+|       zh.toml
+|       
++---images
+|       original.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---cards
+|   |       card.html
+|   |       section.html
+|   |       
+|   +---categories
+|   |       terms.html
+|   |       
+|   +---partials
+|   |       about.html
+|   |       background.html
+|   |       disqus.html
+|   |       flip.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       init.html
+|   |       nav.html
+|   |       pagination.html
+|   |       share.html
+|   |       shortest.html
+|   |       sidebar.html
+|   |       social.html
+|   |       twemoji.html
+|   |       
+|   +---post
+|   |       section.html
+|   |       single.html
+|   |       summary.html
+|   |       
+|   +---taxonomy
+|   |       terms.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           
+\---static
+    +---css
+    |       site.css
+    |       
+    +---img
+    |       avatar1.svg
+    |       avatar2.svg
+    |       avatar3.svg
+    |       avatar4.svg
+    |       bg1.jpeg
+    |       default1.jpg
+    |       default2.jpg
+    |       default3.jpg
+    |       default4.jpg
+    |       default5.jpg
+    |       default6.jpg
+    |       defaultFav.ico
+    |       
+    \---js
+            jquery.min.js
+            semantic.min.js
+            site.js
+            twemoji.min.js
+            

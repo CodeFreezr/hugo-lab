@@ -1,0 +1,61 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.txt
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           2016-12-31-confuse-graphic-designer.md
+|   |           2017-01-01-copywriter-busy.md
+|   |           2017-01-02-website-crash.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   rss.xml
+|   |   
+|   +---partials
+|   |       disqus.html
+|   |       footer.html
+|   |       google_analytics.html
+|   |       header.html
+|   |       pagination.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
++---postcss
+|   |   gulpfile.js
+|   |   
+|   \---src
+|           style.min.css
+|           
++---public
+|   \---css
+|           style.min.css
+|           
+\---static
+    \---css
+            style.min.css
+            

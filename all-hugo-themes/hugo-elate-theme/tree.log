@@ -1,0 +1,143 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .keep
+|   |       
+|   \---static
+|       |   .keep
+|       |   
+|       \---css
+|               custom1.css
+|               custom2.css
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       about.html
+|   |       contact.html
+|   |       counters.html
+|   |       footer.html
+|   |       head.html
+|   |       hero.html
+|   |       intro.html
+|   |       js.html
+|   |       nav.html
+|   |       services.html
+|   |       testimonials.html
+|   |       work.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       animate.css
+    |       blue.css
+    |       blue.css.map
+    |       bootstrap.css
+    |       bootstrap.css.map
+    |       icomoon.css
+    |       magnific-popup.css
+    |       simple-line-icons.css
+    |       style.css
+    |       style.css.map
+    |       style2.css
+    |       style2.css.map
+    |       style3.css
+    |       style3.css.map
+    |       style4.css
+    |       style4.css.map
+    |       
+    +---fonts
+    |   +---bootstrap
+    |   |       glyphicons-halflings-regular.eot
+    |   |       glyphicons-halflings-regular.svg
+    |   |       glyphicons-halflings-regular.ttf
+    |   |       glyphicons-halflings-regular.woff
+    |   |       glyphicons-halflings-regular.woff2
+    |   |       
+    |   +---icomoon
+    |   |   |   icomoon.eot
+    |   |   |   icomoon.svg
+    |   |   |   icomoon.ttf
+    |   |   |   icomoon.woff
+    |   |   |   
+    |   |   \---icomoon
+    |   |       |   demo.html
+    |   |       |   Read Me.txt
+    |   |       |   selection.json
+    |   |       |   style.css
+    |   |       |   
+    |   |       +---demo-files
+    |   |       |       demo.css
+    |   |       |       demo.js
+    |   |       |       
+    |   |       \---fonts
+    |   |               icomoon.eot
+    |   |               icomoon.svg
+    |   |               icomoon.ttf
+    |   |               icomoon.woff
+    |   |               
+    |   \---simple-line-icons
+    |           Simple-Line-Icons.eot
+    |           Simple-Line-Icons.svg
+    |           Simple-Line-Icons.ttf
+    |           Simple-Line-Icons.woff
+    |           Simple-Line-Icons.woff2
+    |           
+    +---images
+    |       full_image_1.jpg
+    |       full_image_2.jpg
+    |       img_10.jpg
+    |       img_7.jpg
+    |       img_8.jpg
+    |       loc.png
+    |       person1.jpg
+    |       person2.jpg
+    |       person3.jpg
+    |       person4.jpg
+    |       work_1.jpg
+    |       work_2.jpg
+    |       work_3.jpg
+    |       work_4.jpg
+    |       work_5.jpg
+    |       work_6.jpg
+    |       work_7.jpg
+    |       work_8.jpg
+    |       
+    \---js
+            bootstrap.min.js
+            google_map.js
+            jquery.countTo.js
+            jquery.easing.1.3.js
+            jquery.magnific-popup.min.js
+            jquery.min.js
+            jquery.stellar.min.js
+            jquery.style.switcher.js
+            jquery.waypoints.min.js
+            magnific-popup-options.js
+            main.js
+            modernizr-2.6.2.min.js
+            respond.min.js
+            

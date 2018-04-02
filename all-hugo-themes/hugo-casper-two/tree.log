@@ -1,0 +1,106 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE-Casper
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           01.md
+|   |           02.md
+|   |           03.md
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   \---static
+|       \---img
+|               advanced.jpg
+|               blog-cover.jpg
+|               ghost-icon.png
+|               Ghost-Transparent-for-DARK-BG.png
+|               locked.jpg
+|               logo.png
+|               tags.jpg
+|               team.jpg
+|               welcome.jpg
+|               writing.jpg
+|               
++---images
+|       screenshot.png
+|       single.jpg
+|       telematika1.jpg
+|       telematika2.jpg
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |       disqus.html
+|   |       footer.html
+|   |       head.html
+|   |       header-floating-sori.html
+|   |       header-sori-error.html
+|   |       header-sori-tag.html
+|   |       header-sori-term.html
+|   |       header-sori.html
+|   |       header.html
+|   |       js-sori.html
+|   |       js.html
+|   |       meta-facebook.html
+|   |       meta-twitter.html
+|   |       page-single-sori.html
+|   |       page-single.html
+|   |       post-list-term.html
+|   |       post-list.html
+|   |       post-single-sori.html
+|   |       post-single.html
+|   |       readnext-article-sori.html
+|   |       readnext-random-sori.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
+\---static
+    |   favicon.ico
+    |   hugo-logo.png
+    |   
+    +---built
+    |       screen.css
+    |       
+    +---css
+    |       casper-two.css
+    |       
+    +---defimg
+    |       1.jpg
+    |       2.jpg
+    |       3.jpg
+    |       4.jpg
+    |       5.jpg
+    |       6.jpg
+    |       7.jpg
+    |       
+    \---js
+            jquery.fitvids.js
+            

@@ -1,0 +1,99 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       content.png
+|       list.png
+|       mobile.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       navbar.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |       custom.css
+    |       fonts.css
+    |       
+    +---highlight
+    |   |   highlight.pack.js
+    |   |   
+    |   \---styles
+    |           arta.css
+    |           ascetic.css
+    |           atelier-dune.dark.css
+    |           atelier-dune.light.css
+    |           atelier-forest.dark.css
+    |           atelier-forest.light.css
+    |           atelier-heath.dark.css
+    |           atelier-heath.light.css
+    |           atelier-lakeside.dark.css
+    |           atelier-lakeside.light.css
+    |           atelier-seaside.dark.css
+    |           atelier-seaside.light.css
+    |           brown_paper.css
+    |           brown_papersq.png
+    |           codepen-embed.css
+    |           color-brewer.css
+    |           dark.css
+    |           default.css
+    |           docco.css
+    |           far.css
+    |           foundation.css
+    |           github.css
+    |           googlecode.css
+    |           hybrid.css
+    |           idea.css
+    |           ir_black.css
+    |           kimbie.dark.css
+    |           kimbie.light.css
+    |           magula.css
+    |           mono-blue.css
+    |           monokai.css
+    |           monokai_sublime.css
+    |           obsidian.css
+    |           paraiso.dark.css
+    |           paraiso.light.css
+    |           pojoaque.css
+    |           pojoaque.jpg
+    |           railscasts.css
+    |           rainbow.css
+    |           school_book.css
+    |           school_book.png
+    |           solarized_dark.css
+    |           solarized_light.css
+    |           sunburst.css
+    |           tomorrow-night-blue.css
+    |           tomorrow-night-bright.css
+    |           tomorrow-night-eighties.css
+    |           tomorrow-night.css
+    |           tomorrow.css
+    |           vs.css
+    |           xcode.css
+    |           zenburn.css
+    |           
+    \---js
+            jquery.min.js
+            jquery.timeago.js
+            

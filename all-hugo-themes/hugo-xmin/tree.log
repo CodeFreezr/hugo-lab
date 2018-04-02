@@ -1,0 +1,60 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   hugo-xmin.Rproj
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   _index.markdown
+|   |   |   _index.Rmarkdown
+|   |   |   
+|   |   +---note
+|   |   |       2017-06-13-a-quick-note.md
+|   |   |       2017-06-14-another-note.md
+|   |   |       
+|   |   \---post
+|   |           2015-07-23-lorem-ipsum.md
+|   |           2016-02-14-hello-markdown.md
+|   |           
+|   +---layouts
+|   |   \---partials
+|   |           foot_custom.html
+|   |           
+|   \---R
+|           build.R
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       foot_custom.html
+|   |       header.html
+|   |       head_custom.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    \---css
+            fonts.css
+            style.css
+            

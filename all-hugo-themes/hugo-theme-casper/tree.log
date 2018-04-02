@@ -1,0 +1,89 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---data
+|   \---authors
+|           example.yml
+|           
++---images
+|       screen.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   
+|   +---page
+|   |       cover.html
+|   |       index.html
+|   |       list.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |       author.html
+|   |       disqus.html
+|   |       footer.html
+|   |       header.html
+|   |       home-content.html
+|   |       li.html
+|   |       navigation.html
+|   |       pagination.html
+|   |       semantic.html
+|   |       share.html
+|   |       social.html
+|   |       suggestions.html
+|   |       twitter_card.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       nav.css
+    |       screen.css
+    |       
+    +---fonts
+    |   +---Genericons
+    |   |       example.html
+    |   |       genericons.css
+    |   |       Genericons.eot
+    |   |       Genericons.svg
+    |   |       Genericons.ttf
+    |   |       Genericons.woff
+    |   |       
+    |   +---Inconsolata
+    |   |       Inconsolata-Regular.ttf
+    |   |       OFL.txt
+    |   |       
+    |   +---Merriweather
+    |   |       Merriweather-Bold.ttf
+    |   |       Merriweather-BoldItalic.ttf
+    |   |       Merriweather-Light.ttf
+    |   |       Merriweather-LightItalic.ttf
+    |   |       OFL.txt
+    |   |       
+    |   \---Open_Sans
+    |           LICENSE.txt
+    |           OpenSans-Bold.ttf
+    |           OpenSans-Regular.ttf
+    |           
+    +---images
+    |       keybase.svg
+    |       stackoverflow.svg
+    |       
+    \---js
+            index.js
+            jquery.fitvids.js
+            jquery.js
+            

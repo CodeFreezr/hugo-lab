@@ -1,0 +1,132 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitattributes
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---data
+|   \---beautifulhugo
+|           social.toml
+|           
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   _index.md
+|   |   |   
+|   |   +---page
+|   |   |       about.md
+|   |   |       
+|   |   \---post
+|   |           2015-01-04-first-post.md
+|   |           2015-01-15-pirates.md
+|   |           2015-01-19-soccer.md
+|   |           2015-01-27-dear-diary.md
+|   |           2015-02-13-hamlet-monologue.md
+|   |           2015-02-20-test-markdown.md
+|   |           2015-02-26-flake-it-till-you-make-it.md
+|   |           2016-03-08-code-sample.md
+|   |           2017-03-05-math-sample.md
+|   |           2017-03-07-bigimg-sample.md
+|   |           2017-03-20-photoswipe-gallery-sample.md
+|   |           
+|   +---layouts
+|   |   \---partials
+|   |           footer_custom.html
+|   |           head_custom.html
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---i18n
+|       br.yaml
+|       de.yaml
+|       en.yaml
+|       eo.yaml
+|       es.yaml
+|       fr.yaml
+|       ja.yaml
+|       nl.yaml
+|       pl.yaml
+|       ru.yaml
+|       zh.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       disqus.html
+|   |       footer.html
+|   |       footer_custom.html
+|   |       head.html
+|   |       header.html
+|   |       head_custom.html
+|   |       load-photoswipe-theme.html
+|   |       nav.html
+|   |       post_meta.html
+|   |       staticman-comments.html
+|   |       translation_link.html
+|   |       
+|   +---shortcodes
+|   |       figure.html
+|   |       gallery.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |       bootstrap.min.css
+    |       codeblock.css
+    |       font-awesome.min.css
+    |       highlight.min.css
+    |       hugo-easy-gallery.css
+    |       katex.min.css
+    |       main-minimal.css
+    |       main.css
+    |       staticman.css
+    |       syntax.css
+    |       
+    +---img
+    |       404-southpark.jpg
+    |       avatar-favicon.png
+    |       avatar-icon.png
+    |       favicon.ico
+    |       favicon.ico.zip
+    |       hexagon-thumb.jpg
+    |       hexagon.jpg
+    |       path.jpg
+    |       sphere-thumb.jpg
+    |       sphere.jpg
+    |       triangle-thumb.jpg
+    |       triangle.jpg
+    |       
+    \---js
+            auto-render.min.js
+            bootstrap.min.js
+            highlight.min.js
+            jquery.min.js
+            katex.min.js
+            load-photoswipe.js
+            main.js
+            photoswipe-ui-default.min.js
+            photoswipe.min.js
+            recaptcha.js
+            staticman.js
+            

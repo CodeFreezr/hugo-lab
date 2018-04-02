@@ -1,0 +1,135 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---archetypes
+|   |       default.md
+|   |       
+|   +---content
+|   |   |   404.md
+|   |   |   
+|   |   +---archives
+|   |   |       index.md
+|   |   |       
+|   |   \---posts
+|   |           featured-image-post-number-two.md
+|   |           featured-video-post-youtube.md
+|   |           picture-post-number-one.md
+|   |           text-post-number-one.md
+|   |           text-post-number-two.md
+|   |           video-post-number-one.md
+|   |           
+|   \---static
+|       +---css
+|       |       font-awesome.min.css
+|       |       ie8.css
+|       |       ie9.css
+|       |       main.css
+|       |       
+|       +---fonts
+|       |       fontawesome-webfont.eot
+|       |       fontawesome-webfont.svg
+|       |       fontawesome-webfont.ttf
+|       |       fontawesome-webfont.woff
+|       |       fontawesome-webfont.woff2
+|       |       FontAwesome.otf
+|       |       
+|       +---images
+|       |       404.jpg
+|       |       pic01.jpg
+|       |       pic02.jpg
+|       |       
+|       \---js
+|           |   jquery.min.js
+|           |   jquery.scrollex.min.js
+|           |   jquery.scrolly.min.js
+|           |   main.js
+|           |   reframe.min.js
+|           |   skel.min.js
+|           |   util.js
+|           |   
+|           \---ie
+|                   html5shiv.js
+|                   respond.min.js
+|                   
++---i18n
+|       en.yaml
+|       ru.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---archives
+|   |       list.html
+|   |       
+|   +---partials
+|   |       blog-pagination.html
+|   |       disqus.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       pagination.html
+|   |       post-meta.html
+|   |       scripts.html
+|   |       
+|   +---taxonomy
+|   |       category.html
+|   |       category.terms.html
+|   |       tag.html
+|   |       tag.terms.html
+|   |       
+|   \---_default
+|           baseof.html
+|           single.html
+|           summary.html
+|           
+\---static
+    +---css
+    |       font-awesome.min.css
+    |       ie8.css
+    |       ie9.css
+    |       main.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    +---images
+    |       404.jpg
+    |       pic01.jpg
+    |       pic02.jpg
+    |       screenshot.png
+    |       
+    \---js
+        |   jquery.min.js
+        |   jquery.scrollex.min.js
+        |   jquery.scrolly.min.js
+        |   main.js
+        |   reframe.min.js
+        |   skel.min.js
+        |   util.js
+        |   
+        \---ie
+                html5shiv.js
+                respond.min.js
+                

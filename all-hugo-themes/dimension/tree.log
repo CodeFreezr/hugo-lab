@@ -1,0 +1,116 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |       about.de.md
+|   |       about.md
+|   |       contact.de.md
+|   |       contact.md
+|   |       elements.md
+|   |       formspree.md
+|   |       intro.de.md
+|   |       intro.md
+|   |       work.de.md
+|   |       work.md
+|   |       
+|   \---static
+|       \---images
+|               bg.jpg
+|               overlay.png
+|               pic01.jpg
+|               pic02.jpg
+|               pic03.jpg
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   robots.txt
+|   |   sitemap.xml
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       
+|   +---shortcodes
+|   |       gmaps.html
+|   |       socialLinks.html
+|   |       
+|   \---_default
+|           list.html
+|           onepagestyle.html
+|           single.html
+|           
+\---static
+    +---css
+    |       font-awesome.min.css
+    |       ie9.css
+    |       main.css
+    |       noscript.css
+    |       project.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    +---images
+    |       bg.jpg
+    |       overlay.png
+    |       
+    +---js
+    |       jquery.min.js
+    |       main.js
+    |       skel.min.js
+    |       util.js
+    |       
+    \---sass
+        |   ie9.scss
+        |   main.scss
+        |   noscript.scss
+        |   
+        +---base
+        |       _page.scss
+        |       _typography.scss
+        |       
+        +---components
+        |       _box.scss
+        |       _button.scss
+        |       _form.scss
+        |       _icon.scss
+        |       _image.scss
+        |       _list.scss
+        |       _table.scss
+        |       
+        +---layout
+        |       _bg.scss
+        |       _footer.scss
+        |       _header.scss
+        |       _main.scss
+        |       _wrapper.scss
+        |       
+        \---libs
+                _functions.scss
+                _mixins.scss
+                _skel.scss
+                _vars.scss
+                

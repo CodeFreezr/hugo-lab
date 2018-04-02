@@ -1,0 +1,61 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   gulpfile.js
+|   LICENSE.md
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           math-example.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       screenshot_github.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       disqus.html
+|   |       footer.html
+|   |       header.html
+|   |       nav.html
+|   |       pager.html
+|   |       sharing.html
+|   |       tags.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
++---sass
+|       style.sass
+|       
+\---static
+    |   wave.ico
+    |   
+    \---css
+            style.css
+            

@@ -1,0 +1,54 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       container-footer.html
+|   |       footer.html
+|   |       header.html
+|   |       navbar.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       .bootstrap.css.swp
+    |       bootstrap-theme.css
+    |       bootstrap-theme.css.map
+    |       bootstrap-theme.min.css
+    |       bootstrap.css
+    |       bootstrap.css.map
+    |       bootstrap.min.css
+    |       hugo-bootswatch.css
+    |       
+    +---fonts
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       glyphicons-halflings-regular.woff2
+    |       
+    \---js
+            bootstrap.js
+            bootstrap.min.js
+            bootswatch.js
+            npm.js
+            

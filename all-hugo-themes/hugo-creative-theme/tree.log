@@ -1,0 +1,106 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       .stub
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .gitkeep
+|   |       
+|   +---data
+|   |   \---projects
+|   |           2014-07-05-project-1.yaml
+|   |           2014-07-06-project-2.yaml
+|   |           2014-07-07-project-3.yaml
+|   |           2014-07-08-project-5.yaml
+|   |           2014-07-09-project-4.yaml
+|   |           2014-07-10-project-6.yaml
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   \---partials
+|           about.html
+|           aside.html
+|           contact.html
+|           head.html
+|           hero.html
+|           js.html
+|           location.html
+|           modals.html
+|           nav.html
+|           portfolio.html
+|           services.html
+|           
+\---static
+    |   favicon.ico
+    |   
+    +---css
+    |       animate.min.css
+    |       bootstrap.css
+    |       bootstrap.min.css
+    |       creative.css
+    |       modals.css
+    |       
+    +---font-awesome
+    |   +---css
+    |   |       font-awesome.min.css
+    |   |       
+    |   \---fonts
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           fontawesome-webfont.woff2
+    |           FontAwesome.otf
+    |           
+    +---fonts
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       glyphicons-halflings-regular.woff2
+    |       
+    +---img
+    |   |   header.jpg
+    |   |   marker.png
+    |   |   
+    |   \---portfolio
+    |           1.jpg
+    |           2.jpg
+    |           3.jpg
+    |           4.jpg
+    |           5.jpg
+    |           6.jpg
+    |           
+    \---js
+            bootstrap.js
+            bootstrap.min.js
+            cbpAnimatedHeader.js
+            classie.js
+            creative.js
+            gmaps.init.js
+            hpneo.gmaps.js
+            jquery.easing.min.js
+            jquery.fittext.js
+            jquery.js
+            wow.min.js
+            

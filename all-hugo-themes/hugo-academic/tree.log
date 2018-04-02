@@ -1,0 +1,212 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   academic.png
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---.github
+|       PULL_REQUEST_TEMPLATE.md
+|       
++---archetypes
+|       default.md
+|       home.md
+|       post.md
+|       project.md
+|       publication.md
+|       talk.md
+|       
++---data
+|   |   sri.toml
+|   |   
+|   +---fonts
+|   |       classic.toml
+|   |       default.toml
+|   |       playfair.toml
+|   |       
+|   +---i18n
+|   |       languages.yaml
+|   |       
+|   \---themes
+|           1950s.toml
+|           coffee.toml
+|           dark.toml
+|           default.toml
+|           forest.toml
+|           ocean.toml
+|           
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---home
+|   |   |       about.md
+|   |   |       contact.md
+|   |   |       hero.md
+|   |   |       posts.md
+|   |   |       projects.md
+|   |   |       publications.md
+|   |   |       publications_selected.md
+|   |   |       tags.md
+|   |   |       talks.md
+|   |   |       teaching.md
+|   |   |       
+|   |   +---post
+|   |   |       getting-started.md
+|   |   |       _index.md
+|   |   |       
+|   |   +---project
+|   |   |       deep-learning.md
+|   |   |       example-external-project.md
+|   |   |       
+|   |   +---publication
+|   |   |       clothing-search.md
+|   |   |       person-re-identification.md
+|   |   |       _index.md
+|   |   |       
+|   |   +---tags
+|   |   |   \---academic
+|   |   |           _index.md
+|   |   |           
+|   |   \---talk
+|   |           example-talk.md
+|   |           _index.md
+|   |           
+|   \---static
+|       +---files
+|       |   \---citations
+|       |           clothing-search.bib
+|       |           
+|       \---img
+|           |   boards.jpg
+|           |   bubbles.jpg
+|           |   portrait.jpg
+|           |   
+|           \---headers
+|                   bubbles-wide.jpg
+|                   getting-started.png
+|                   
++---i18n
+|       de.yaml
+|       el.yaml
+|       en.yaml
+|       es.yaml
+|       eu.yaml
+|       fr.yaml
+|       id.yaml
+|       it.yaml
+|       ko.yaml
+|       nl.yaml
+|       pl.yaml
+|       pt.yaml
+|       ru.yaml
+|       tr.yaml
+|       vi.yaml
+|       zh.yaml
+|       
++---images
+|       screenshot.png
+|       theme-1950s.png
+|       theme-coffee-playfair.png
+|       theme-dark.png
+|       theme-default.png
+|       theme-forest.png
+|       theme-ocean.png
+|       theme-spacer.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.css
+|   |   index.html
+|   |   rss.xml
+|   |   sitemap.xml
+|   |   
+|   +---home
+|   |       list.html
+|   |       single.html
+|   |       
+|   +---partials
+|   |   |   article_metadata.html
+|   |   |   comments.html
+|   |   |   footer.html
+|   |   |   footer_container.html
+|   |   |   header.html
+|   |   |   header_image.html
+|   |   |   head_custom.html
+|   |   |   navbar.html
+|   |   |   pagination.html
+|   |   |   post_li.html
+|   |   |   publication_links.html
+|   |   |   publication_li_apa.html
+|   |   |   publication_li_detailed.html
+|   |   |   publication_li_mla.html
+|   |   |   publication_li_simple.html
+|   |   |   section_pager.html
+|   |   |   share.html
+|   |   |   tags.html
+|   |   |   talk_links.html
+|   |   |   talk_li_detailed.html
+|   |   |   talk_li_simple.html
+|   |   |   widget_page.html
+|   |   |   
+|   |   +---css
+|   |   |       academic.css
+|   |   |       parse_theme.css
+|   |   |       
+|   |   \---widgets
+|   |           about.html
+|   |           contact.html
+|   |           custom.html
+|   |           featurette.html
+|   |           hero.html
+|   |           posts.html
+|   |           projects.html
+|   |           publications.html
+|   |           publications_selected.html
+|   |           tag_cloud.html
+|   |           talks.html
+|   |           talks_selected.html
+|   |           
+|   +---project
+|   |       single.html
+|   |       
+|   +---publication
+|   |       single.html
+|   |       
+|   +---section
+|   |       home.html
+|   |       post.html
+|   |       project.html
+|   |       publication.html
+|   |       talk.html
+|   |       
+|   +---shortcodes
+|   |       alert.html
+|   |       gallery.html
+|   |       staticref.html
+|   |       toc.html
+|   |       video.html
+|   |       
+|   +---talk
+|   |       single.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    |   site.webmanifest
+    |   
+    +---img
+    |       icon-192.png
+    |       icon.png
+    |       portrait.jpg
+    |       
+    \---js
+            hugo-academic.js
+            

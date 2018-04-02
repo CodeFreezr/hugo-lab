@@ -1,0 +1,145 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   LICENSE.md
+|   Makefile
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   VERSION.txt
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       sidebar-list.html
+|   |       sidebar-single.html
+|   |       
+|   +---section
+|   |       index.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    |   favicon.ico
+    |   
+    +---css
+    |   |   bootie-docs.css
+    |   |   bootstrap-theme.min.css
+    |   |   bootstrap.min.css
+    |   |   site.css
+    |   |   theme.css
+    |   |   
+    |   \---highlight
+    |           agate.css
+    |           androidstudio.css
+    |           arduino-light.css
+    |           arta.css
+    |           ascetic.css
+    |           atelier-cave-dark.css
+    |           atelier-cave-light.css
+    |           atelier-dune-dark.css
+    |           atelier-dune-light.css
+    |           atelier-estuary-dark.css
+    |           atelier-estuary-light.css
+    |           atelier-forest-dark.css
+    |           atelier-forest-light.css
+    |           atelier-heath-dark.css
+    |           atelier-heath-light.css
+    |           atelier-lakeside-dark.css
+    |           atelier-lakeside-light.css
+    |           atelier-plateau-dark.css
+    |           atelier-plateau-light.css
+    |           atelier-savanna-dark.css
+    |           atelier-savanna-light.css
+    |           atelier-seaside-dark.css
+    |           atelier-seaside-light.css
+    |           atelier-sulphurpool-dark.css
+    |           atelier-sulphurpool-light.css
+    |           atom-one-dark.css
+    |           atom-one-light.css
+    |           brown-paper.css
+    |           brown-papersq.png
+    |           codepen-embed.css
+    |           color-brewer.css
+    |           darcula.css
+    |           dark.css
+    |           darkula.css
+    |           default.css
+    |           docco.css
+    |           dracula.css
+    |           far.css
+    |           foundation.css
+    |           github-gist.css
+    |           github.css
+    |           googlecode.css
+    |           grayscale.css
+    |           gruvbox-dark.css
+    |           gruvbox-light.css
+    |           hopscotch.css
+    |           hybrid.css
+    |           idea.css
+    |           ir-black.css
+    |           kimbie.dark.css
+    |           kimbie.light.css
+    |           magula.css
+    |           mono-blue.css
+    |           monokai-sublime.css
+    |           monokai.css
+    |           obsidian.css
+    |           ocean.css
+    |           paraiso-dark.css
+    |           paraiso-light.css
+    |           pojoaque.css
+    |           pojoaque.jpg
+    |           purebasic.css
+    |           qtcreator_dark.css
+    |           qtcreator_light.css
+    |           railscasts.css
+    |           rainbow.css
+    |           routeros.css
+    |           school-book.css
+    |           school-book.png
+    |           solarized-dark.css
+    |           solarized-light.css
+    |           sunburst.css
+    |           tomorrow-night-blue.css
+    |           tomorrow-night-bright.css
+    |           tomorrow-night-eighties.css
+    |           tomorrow-night.css
+    |           tomorrow.css
+    |           vs.css
+    |           vs2015.css
+    |           xcode.css
+    |           xt256.css
+    |           zenburn.css
+    |           
+    +---fonts
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       glyphicons-halflings-regular.woff2
+    |       
+    \---js
+            bootie-docs.js
+            bootstrap.min.js
+            highlight.pack.js
+            ie-emulation-modes-warning.js
+            ie10-viewport-bug-workaround.js
+            jquery.min.js
+            

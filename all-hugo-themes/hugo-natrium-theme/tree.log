@@ -1,0 +1,90 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---page
+|   |   |       about.md
+|   |   |       site-notice.md
+|   |   |       
+|   |   \---post
+|   |           extending-this-logic.md
+|   |           the-actor-is-a-gander.md
+|   |           the-beach-is-a-push.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---i18n
+|       de.toml
+|       en.toml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   rss.xml
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       list-item.html
+|   |       nav.html
+|   |       pagination.html
+|   |       
+|   +---taxonomy
+|   |       category.html
+|   |       category.terms.html
+|   |       tag.html
+|   |       tag.terms.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       fonts.css
+    |       main.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       lato-v14-latin-700.woff
+    |       lato-v14-latin-700.woff2
+    |       lato-v14-latin-700italic.woff
+    |       lato-v14-latin-700italic.woff2
+    |       lato-v14-latin-italic.woff
+    |       lato-v14-latin-italic.woff2
+    |       lato-v14-latin-regular.woff
+    |       lato-v14-latin-regular.woff2
+    |       merriweather-v19-latin-700.woff
+    |       merriweather-v19-latin-700.woff2
+    |       merriweather-v19-latin-700italic.woff
+    |       merriweather-v19-latin-700italic.woff2
+    |       merriweather-v19-latin-italic.woff
+    |       merriweather-v19-latin-italic.woff2
+    |       merriweather-v19-latin-regular.woff
+    |       merriweather-v19-latin-regular.woff2
+    |       roboto-mono-v5-latin-regular.woff
+    |       roboto-mono-v5-latin-regular.woff2
+    |       
+    \---images
+            logo.png
+            

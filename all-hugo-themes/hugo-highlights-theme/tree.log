@@ -1,0 +1,93 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   .gitignore
+|   CHANGELOG.md
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .gitkeep
+|   |       
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   \---partials
+|           contact.html
+|           footer-social.html
+|           footer_custom.html
+|           head.html
+|           head_custom.html
+|           hero.html
+|           list.html
+|           scripts.html
+|           text.html
+|           
+\---static
+    +---css
+    |   |   font-awesome.min.css
+    |   |   ie8.css
+    |   |   ie9.css
+    |   |   main.css
+    |   |   
+    |   \---images
+    |           arrow.svg
+    |           bg.jpg
+    |           overlay.png
+    |           
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       
+    +---images
+    |       bg.jpg
+    |       pic01.jpg
+    |       pic02.jpg
+    |       pic03.jpg
+    |       pic04.jpg
+    |       pic05.jpg
+    |       
+    +---js
+    |   |   jquery.min.js
+    |   |   jquery.scrollex.min.js
+    |   |   jquery.scrolly.min.js
+    |   |   main.js
+    |   |   skel.min.js
+    |   |   util.js
+    |   |   
+    |   \---ie
+    |           backgroundsize.min.htc
+    |           html5shiv.js
+    |           respond.min.js
+    |           
+    \---sass
+        |   ie8.scss
+        |   ie9.scss
+        |   main.scss
+        |   
+        \---libs
+                _functions.scss
+                _mixins.scss
+                _skel.scss
+                _vars.scss
+                

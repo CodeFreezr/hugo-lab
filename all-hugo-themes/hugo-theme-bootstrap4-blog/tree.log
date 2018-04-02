@@ -1,0 +1,94 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .travis.yml
+|   LICENSE.txt
+|   package.json
+|   README.md
+|   screenshot.png
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---build
+|       assets.json
+|       sri.js
+|       
++---data
+|       sri.toml
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---i18n
+|       bg.yaml
+|       de.yaml
+|       en.yaml
+|       es.yaml
+|       fr.yaml
+|       id.yaml
+|       pt.yaml
+|       ru.yaml
+|       zh-Hant-TW.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   robots.txt
+|   |   
+|   +---partials
+|   |       cookie-consent.html
+|   |       head-custom.html
+|   |       head-meta.html
+|   |       meta-terms.html
+|   |       recent.html
+|   |       sharing-icons.html
+|   |       sidebar.html
+|   |       
+|   \---_default
+|           baseof.html
+|           content.html
+|           list.html
+|           single.html
+|           summary.html
+|           
++---source
+|   \---scss
+|           bootstrap.scss
+|           font-awesome.scss
+|           main.scss
+|           style.scss
+|           
+\---static
+    +---css
+    |       cookieconsent.min.css
+    |       style.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    \---js
+            cookieconsent.min.js
+            

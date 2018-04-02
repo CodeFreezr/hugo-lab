@@ -1,0 +1,182 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   create_json.py
+|   LICENSE.md
+|   README.md
+|   requirements.txt
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   create_json.py
+|   |   
+|   \---content
+|       |   about.md
+|       |   about.ru.md
+|       |   contact.md
+|       |   contact.ru.md
+|       |   search.md
+|       |   
+|       \---post
+|               is-that-a-cooking-show.md
+|               lorem-ipsum.md
+|               lorem-ipsum.ru.md
+|               my-fifth-post.ru.md
+|               my-first-post.md
+|               my-first-post.ru.md
+|               my-fourth-post.md
+|               my-fourth-post.ru.md
+|               my-second-post.md
+|               my-second-post.ru.md
+|               my-third-post.md
+|               my-third-post.ru.md
+|               
++---i18n
+|       en.toml
+|       ru.toml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   rss.xml
+|   |   sitemap.xml
+|   |   
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |       comments.html
+|   |       footer.html
+|   |       google_analytics.html
+|   |       head.html
+|   |       header.html
+|   |       navigation.html
+|   |       pagination.html
+|   |       script.html
+|   |       social_links.html
+|   |       
+|   +---post
+|   |       single.html
+|   |       summary.html
+|   |       
+|   +---shortcodes
+|   |       img.html
+|   |       youtube.html
+|   |       
+|   +---tag
+|   |       tag.html
+|   |       
+|   \---_default
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |   |   basscss-min.css
+    |   |   basscss.css
+    |   |   combined-min.css
+    |   |   main-min.css
+    |   |   main.css
+    |   |   
+    |   \---highlight
+    |       \---styles
+    |               arta.css
+    |               ascetic.css
+    |               atelier-dune.dark.css
+    |               atelier-dune.light.css
+    |               atelier-forest.dark.css
+    |               atelier-forest.light.css
+    |               atelier-heath.dark.css
+    |               atelier-heath.light.css
+    |               atelier-lakeside.dark.css
+    |               atelier-lakeside.light.css
+    |               atelier-seaside.dark.css
+    |               atelier-seaside.light.css
+    |               brown_paper.css
+    |               brown_papersq.png
+    |               codepen-embed.css
+    |               color-brewer.css
+    |               dark.css
+    |               default.css
+    |               docco.css
+    |               far.css
+    |               foundation.css
+    |               github.css
+    |               googlecode.css
+    |               hybrid.css
+    |               idea.css
+    |               ir_black.css
+    |               kimbie.dark.css
+    |               kimbie.light.css
+    |               magula.css
+    |               mono-blue.css
+    |               monokai.css
+    |               monokai_sublime.css
+    |               obsidian.css
+    |               paraiso.dark.css
+    |               paraiso.light.css
+    |               pojoaque.css
+    |               pojoaque.jpg
+    |               railscasts-min.css
+    |               railscasts.css
+    |               rainbow.css
+    |               school_book.css
+    |               school_book.png
+    |               solarized_dark.css
+    |               solarized_light.css
+    |               sunburst.css
+    |               tomorrow-night-blue.css
+    |               tomorrow-night-bright.css
+    |               tomorrow-night-eighties.css
+    |               tomorrow-night.css
+    |               tomorrow.css
+    |               vs.css
+    |               xcode.css
+    |               zenburn.css
+    |               
+    +---images
+    |   |   404.jpg
+    |   |   
+    |   \---icons
+    |           amazon.png
+    |           deviantart.png
+    |           dribbble.png
+    |           facebook.png
+    |           ffffound.png
+    |           flickr.png
+    |           googleplus.png
+    |           lastfm.png
+    |           linkedin.png
+    |           picasa.png
+    |           pinterest.png
+    |           rss.png
+    |           skype.png
+    |           tumblr.png
+    |           twitter.png
+    |           vimeo.png
+    |           youtube.png
+    |           
+    +---js
+    |       highlight.pack.js
+    |       
+    \---tipuesearch
+        |   tipuesearch.css
+        |   tipuesearch.min.js
+        |   tipuesearch_set.js
+        |   
+        \---img
+                expand.png
+                link.png
+                loader.gif
+                

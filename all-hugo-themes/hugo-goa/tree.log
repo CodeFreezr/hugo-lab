@@ -1,0 +1,94 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       index.md
+|   |   |       
+|   |   +---blog
+|   |   |       first.md
+|   |   |       second.md
+|   |   |       third.md
+|   |   |       
+|   |   \---coderag
+|   |           index.md
+|   |           
+|   +---data
+|   |       .gitkeep
+|   |       
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|       |   .gitkeep
+|       |   apple-touch-icon.png
+|       |   browserconfig.xml
+|       |   favicon-16x16.png
+|       |   favicon-32x32.png
+|       |   manifest.json
+|       |   mstile-150x150.png
+|       |   safari-pinned-tab.svg
+|       |   
+|       \---img
+|               .gitkeep
+|               headshot.jpg
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       avatar.html
+|   |       content.html
+|   |       error.html
+|   |       footer.html
+|   |       header.html
+|   |       info.html
+|   |       li.html
+|   |       main_menu.html
+|   |       menu.html
+|   |       social.html
+|   |       sub_footer.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    |   apple-touch-icon.png
+    |   browserconfig.xml
+    |   favicon-16x16.png
+    |   favicon-32x32.png
+    |   manifest.json
+    |   mstile-150x150.png
+    |   safari-pinned-tab.svg
+    |   
+    +---css
+    |       main.css
+    |       
+    +---img
+    |       .gitkeep
+    |       
+    \---js
+            main.js
+            

@@ -1,0 +1,91 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   gulpfile.js
+|   LICENSE.md
+|   Makefile
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   yarn.lock
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .nofiles
+|   |       
+|   +---data
+|   |       links.yml
+|   |       
+|   \---static
+|       |   favicon.ico
+|       |   
+|       \---logos
+|               amazon.svg
+|               bing.svg
+|               ebay.svg
+|               google-music.png
+|               google.svg
+|               imgur.svg
+|               netflix.svg
+|               pandora.svg
+|               reddit.svg
+|               soundcloud.svg
+|               spotify.svg
+|               twitch.svg
+|               twitter.svg
+|               wikipedia.svg
+|               youtube.svg
+|               
++---images
+|       icon_tiles.png
+|       screenshot.png
+|       text_tiles.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       nav.html
+|   |       nav_item.html
+|   |       tile.html
+|   |       tile_slate.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
++---src
+|   +---js
+|   |       slate.js
+|   |       
+|   \---scss
+|           slate.scss
+|           
+\---static
+    +---css
+    |       slate.css
+    |       
+    +---fonts
+    |       fontawesome-webfont.eot
+    |       fontawesome-webfont.svg
+    |       fontawesome-webfont.ttf
+    |       fontawesome-webfont.woff
+    |       fontawesome-webfont.woff2
+    |       FontAwesome.otf
+    |       
+    \---js
+            slate.js
+            

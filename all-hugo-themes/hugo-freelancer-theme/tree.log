@@ -1,0 +1,90 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .editorconfig
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       .gitkeep
+|       
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .gitkeep
+|   |       
+|   +---data
+|   |   \---projects
+|   |           2014-07-13-project-1.yaml
+|   |           2014-07-14-project-2.yaml
+|   |           2014-07-15-project-3.yaml
+|   |           2014-07-16-project-4.yaml
+|   |           2014-07-17-project-5.yaml
+|   |           2014-07-18-project-6.yaml
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   \---partials
+|           about.html
+|           contact.html
+|           footer.html
+|           head.html
+|           header.html
+|           js.html
+|           modals.html
+|           nav.html
+|           portfolio-grid.html
+|           
+\---static
+    +---css
+    |   |   bootstrap.min.css
+    |   |   freelancer.css
+    |   |   
+    |   \---font-awesome
+    |       +---css
+    |       |       font-awesome.css
+    |       |       font-awesome.min.css
+    |       |       
+    |       \---fonts
+    |               fontawesome-webfont.eot
+    |               fontawesome-webfont.svg
+    |               fontawesome-webfont.ttf
+    |               fontawesome-webfont.woff
+    |               FontAwesome.otf
+    |               
+    +---img
+    |   |   profile.png
+    |   |   
+    |   \---portfolio
+    |           cabin.png
+    |           cake.png
+    |           circus.png
+    |           game.png
+    |           safe.png
+    |           submarine.png
+    |           
+    \---js
+            bootstrap.js
+            bootstrap.min.js
+            cbpAnimatedHeader.js
+            cbpAnimatedHeader.min.js
+            classie.js
+            contact_me.js
+            freelancer.js
+            jqBootstrapValidation.js
+            jquery-1.11.js
+            jquery.easing.min.js
+            

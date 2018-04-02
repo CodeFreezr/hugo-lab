@@ -1,0 +1,77 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   \---post
+|   |       \---2016
+|   |           \---05
+|   |                   how-to-install-Geppaku-theme.md
+|   |                   sample-post1.md
+|   |                   sample-post10.md
+|   |                   sample-post2.md
+|   |                   sample-post3.md
+|   |                   sample-post4.md
+|   |                   sample-post5.md
+|   |                   sample-post6.md
+|   |                   sample-post7.md
+|   |                   sample-post8.md
+|   |                   sample-post9.md
+|   |                   
+|   +---data
+|   |       .gitkeep
+|   |       
+|   +---layouts
+|   |   \---partials
+|   |       \---adsense
+|   |               content.html
+|   |               sidebar.html
+|   |               
+|   \---static
+|       \---images
+|           \---2016
+|               \---05
+|                   \---03
+|                           list.png
+|                           screenshot.png
+|                           
++---images
+|       list.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       share.html
+|   |       sidebar.html
+|   |       tags.html
+|   |       
+|   \---_default
+|           list.html
+|           rss.xml
+|           single.html
+|           
+\---static
+    +---css
+    |       style.css
+    |       
+    \---images
+            favicon.ico
+            

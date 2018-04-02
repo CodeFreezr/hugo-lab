@@ -1,0 +1,54 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   .gitmodules
+|   |   config.toml
+|   |   README.md
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   contact.md
+|   |   |   _index.md
+|   |   |   
+|   |   \---post
+|   |           beach.md
+|   |           red_hammer.md
+|   |           
+|   \---static
+|       \---img
+|               bettys_jetty_img_3119.jpg
+|               penguin_island_img_3070.jpg
+|               penguin_island_img_3095.jpg
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       list_taxonomies.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    \---css
+            plain-blog.css
+            

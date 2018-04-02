@@ -1,0 +1,107 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   home.md
+|   |   |   license.md
+|   |   |   
+|   |   +---blog
+|   |   |       creating-a-new-theme.md
+|   |   |       example-of-an-article.md
+|   |   |       goisforlovers.md
+|   |   |       hugoisforlovers.md
+|   |   |       
+|   |   \---projects
+|   |           projects.md
+|   |           small-project.md
+|   |           
+|   \---static
+|       \---img
+|           |   banner.png
+|           |   logo.png
+|           |   startup.jpg
+|           |   
+|           \---low
+|                   startup.jpg
+|                   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---blog
+|   |       single.html
+|   |       
+|   +---partials
+|   |   |   content.html
+|   |   |   footer.html
+|   |   |   footer_scripts.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   head_includes.html
+|   |   |   li.html
+|   |   |   meta.html
+|   |   |   page-heading.html
+|   |   |   
+|   |   \---css
+|   |           404.css
+|   |           colors.css
+|   |           highlight.min.css
+|   |           main.css
+|   |           min600px.css
+|   |           min769px.css
+|   |           progressively.min.css
+|   |           social-share-kit.css
+|   |           
+|   +---section
+|   |       blog.html
+|   |       
+|   \---_default
+|           section.html
+|           single.html
+|           taxonomy.html
+|           
+\---static
+    +---fonts
+    |       Nexa Bold.otf
+    |       social-share-kit.eot
+    |       social-share-kit.svg
+    |       social-share-kit.ttf
+    |       social-share-kit.woff
+    |       
+    +---img
+    |       500px.svg
+    |       back.svg
+    |       email.svg
+    |       facebook.svg
+    |       favicon.ico
+    |       github.svg
+    |       gitlab.svg
+    |       linkedin.svg
+    |       next.svg
+    |       rss.svg
+    |       twitter.svg
+    |       
+    \---js
+            highlight.min.js
+            progressively.min.js
+            social-share-kit.min.js
+            

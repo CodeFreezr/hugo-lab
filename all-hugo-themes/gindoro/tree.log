@@ -1,0 +1,37 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       gindoro-index-screenshot.png
+|       gindoro-screenshot.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       head_includes.html
+|   |       meta.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           summary.html
+|           
+\---static
+    \---css
+            styles.css
+            

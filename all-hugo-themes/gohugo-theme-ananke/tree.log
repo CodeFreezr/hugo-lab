@@ -1,0 +1,114 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   contact.md
+|   |   |   _index.md
+|   |   |   
+|   |   +---about
+|   |   |       _index.md
+|   |   |       
+|   |   \---post
+|   |           chapter-1.md
+|   |           chapter-2.md
+|   |           chapter-3.md
+|   |           chapter-4.md
+|   |           chapter-5.md
+|   |           chapter-6.md
+|   |           _index.md
+|   |           
+|   \---static
+|       \---images
+|               esmeralda.jpg
+|               Pope-Edouard-de-Beaumont-1844.jpg
+|               Victor_Hugo-Hunchback.jpg
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   robots.txt
+|   |   
+|   +---partials
+|   |   |   menu-contextual.html
+|   |   |   page-header.html
+|   |   |   site-favicon.html
+|   |   |   site-footer.html
+|   |   |   site-header.html
+|   |   |   site-navigation.html
+|   |   |   site-scripts.html
+|   |   |   social-follow.html
+|   |   |   summary-with-image.html
+|   |   |   summary.html
+|   |   |   tags.html
+|   |   |   
+|   |   \---svg
+|   |           facebook.svg
+|   |           github.svg
+|   |           instagram.svg
+|   |           linkedin.svg
+|   |           twitter.svg
+|   |           youtube.svg
+|   |           
+|   +---post
+|   |       single.html
+|   |       summary-with-image.html
+|   |       summary.html
+|   |       
+|   +---section
+|   |       post.html
+|   |       
+|   +---shortcodes
+|   |       form-contact.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
++---src
+|   |   package-lock.json
+|   |   package.json
+|   |   readme.md
+|   |   webpack.config.js
+|   |   yarn.lock
+|   |   
+|   +---css
+|   |       main.css
+|   |       postcss.config.js
+|   |       _code.css
+|   |       _hugo-internal-templates.css
+|   |       _social-icons.css
+|   |       _styles.css
+|   |       _tachyons.css
+|   |       
+|   \---js
+|           main.js
+|           
+\---static
+    +---dist
+    |       app.bundle.js
+    |       main.css
+    |       
+    \---images
+            gohugo-default-sample-hero-image.jpg
+            

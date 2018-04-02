@@ -1,0 +1,67 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .monova.config
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       +---characters
+|       |       balveda.md
+|       |       bora.md
+|       |       kraiklyn.md
+|       |       _index.md
+|       |       
+|       +---criticism
+|       |       _index.md
+|       |       
+|       +---history
+|       |       _index.md
+|       |       
+|       +---introduction
+|       |       code.md
+|       |       _index.md
+|       |       
+|       \---plot
+|               _index.md
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       head.html
+|   |       logo.html
+|   |       menu.html
+|   |       menu_page_list.html
+|   |       section.html
+|   |       section_list.html
+|   |       sidebar.html
+|   |       tail.html
+|   |       
+|   +---shortcodes
+|   |       anchor.html
+|   |       block.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    \---css
+            styles.css
+            

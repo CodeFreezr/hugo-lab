@@ -1,0 +1,133 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   webpack.config.js
+|   yarn.lock
+|   
++---archetypes
+|       default.md
+|       page.md
+|       
++---data
+|       assets.json
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   photos.md
+|   |   |   projects.md
+|   |   |   _index.md
+|   |   |   
+|   |   +---categories
+|   |   |       _index.md
+|   |   |       
+|   |   +---posts
+|   |   |   |   _index.md
+|   |   |   |   
+|   |   |   +---2014
+|   |   |   |       creating-a-new-theme.md
+|   |   |   |       goisforlovers.md
+|   |   |   |       hugoisforlovers.md
+|   |   |   |       migrate-from-jekyll.md
+|   |   |   |       
+|   |   |   +---2016
+|   |   |   |       lorem-ipsum.md
+|   |   |   |       
+|   |   |   \---2017
+|   |   |           images.md
+|   |   |           typography.md
+|   |   |           
+|   |   \---tags
+|   |           _index.md
+|   |           
+|   \---static
+|       \---images
+|               image-1.jpg
+|               
++---i18n
+|       en.toml
+|       pl.toml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |       adsense.html
+|   |       footer.html
+|   |       head.html
+|   |       navbar.html
+|   |       pagination.html
+|   |       posts_list.html
+|   |       
+|   +---shortcodes
+|   |       figure.html
+|   |       speakerdeck.html
+|   |       vimeo.html
+|   |       youtube.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           rss.xml
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
++---src
+|   +---images
+|   |       apple-touch-icon.png
+|   |       favicon.ico
+|   |       
+|   +---scripts
+|   |       main.js
+|   |       
+|   \---styles
+|       |   styles.scss
+|       |   _chroma_native.scss
+|       |   _mixins.scss
+|       |   _settings.scss
+|       |   
+|       \---_components
+|               adsense.scss
+|               base.scss
+|               content.scss
+|               footer.scss
+|               homepage.scss
+|               links.scss
+|               navbar.scss
+|               page.scss
+|               pagination.scss
+|               post.scss
+|               posts_list.scss
+|               taxonomies.scss
+|               taxonomies_list.scss
+|               typography.scss
+|               
+\---static
+    \---assets
+        +---css
+        |       main.6c6783c882af.css
+        |       
+        +---img
+        |       apple-touch-icon.png
+        |       favicon.ico
+        |       
+        \---js
+                main.28b0c18ba028.js
+                

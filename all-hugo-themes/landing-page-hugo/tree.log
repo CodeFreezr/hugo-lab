@@ -1,0 +1,143 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .gitmodules
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   VERSION
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       about.md
+|   |   |       
+|   |   +---post
+|   |   |       first.md
+|   |   |       second.md
+|   |   |       third.md
+|   |   |       
+|   |   \---pricing
+|   |           pricing.md
+|   |           
+|   +---data
+|   |       pricing.json
+|   |       
+|   +---landing-page-hugo
+|   \---static
+|       \---img
+|           |   dog.png
+|           |   ipad.png
+|           |   phones.png
+|           |   
+|           \---css
+|                   local.css
+|                   
++---images
+|       Pricing_Section.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |       about.html
+|   |       contact.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       js.html
+|   |       pricing.html
+|   |       services.html
+|   |       social.html
+|   |       
+|   \---_default2
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       bootstrap.css
+    |       bootstrap.min.css
+    |       landing-page.css
+    |       pricing.css
+    |       
+    +---font-awesome-4.7.0
+    |   |   HELP-US-OUT.txt
+    |   |   
+    |   +---css
+    |   |       font-awesome.css
+    |   |       font-awesome.min.css
+    |   |       
+    |   +---fonts
+    |   |       fontawesome-webfont.eot
+    |   |       fontawesome-webfont.svg
+    |   |       fontawesome-webfont.ttf
+    |   |       fontawesome-webfont.woff
+    |   |       fontawesome-webfont.woff2
+    |   |       FontAwesome.otf
+    |   |       
+    |   +---less
+    |   |       animated.less
+    |   |       bordered-pulled.less
+    |   |       core.less
+    |   |       fixed-width.less
+    |   |       font-awesome.less
+    |   |       icons.less
+    |   |       larger.less
+    |   |       list.less
+    |   |       mixins.less
+    |   |       path.less
+    |   |       rotated-flipped.less
+    |   |       screen-reader.less
+    |   |       stacked.less
+    |   |       variables.less
+    |   |       
+    |   \---scss
+    |           font-awesome.scss
+    |           _animated.scss
+    |           _bordered-pulled.scss
+    |           _core.scss
+    |           _fixed-width.scss
+    |           _icons.scss
+    |           _larger.scss
+    |           _list.scss
+    |           _mixins.scss
+    |           _path.scss
+    |           _rotated-flipped.scss
+    |           _screen-reader.scss
+    |           _stacked.scss
+    |           _variables.scss
+    |           
+    +---fonts
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       
+    +---img
+    |   |   banner-bg.jpg
+    |   |   intro-bg.jpg
+    |   |   screenshot.png
+    |   |   
+    |   \---services
+    |           dog.png
+    |           ipad.png
+    |           phones.png
+    |           
+    \---js
+            bootstrap.js
+            bootstrap.min.js
+            jquery-1.11.0.js
+            jquery.easing.min.js
+            landing-page.js
+            

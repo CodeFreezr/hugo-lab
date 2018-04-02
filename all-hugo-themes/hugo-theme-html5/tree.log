@@ -1,0 +1,60 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.json
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   article.html
+|   |   |   foot-local.html
+|   |   |   foot.html
+|   |   |   footer.html
+|   |   |   head-local.html
+|   |   |   head.html
+|   |   |   header.html
+|   |   |   link.html
+|   |   |   menu.html
+|   |   |   nav-local.html
+|   |   |   pagination.html
+|   |   |   self-link.html
+|   |   |   title.html
+|   |   |   
+|   |   \---article
+|   |       +---mode
+|   |       |       body.html
+|   |       |       full.html
+|   |       |       header.html
+|   |       |       list.html
+|   |       |       summary.html
+|   |       |       
+|   |       \---part
+|   |               aside.html
+|   |               content.html
+|   |               footer.html
+|   |               header.html
+|   |               meta-local.html
+|   |               meta.html
+|   |               summary.html
+|   |               toc.html
+|   |               
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           
+\---static
+    \---css
+            reset.css
+            text.css
+            transparent.gif
+            

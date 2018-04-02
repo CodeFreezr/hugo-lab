@@ -1,0 +1,86 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   CONTRIBUTING.md
+|   gulpfile.js
+|   LICENSE.md
+|   package.json
+|   README.md
+|   release.js
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---data
+|   \---translations
+|           en-US.yaml
+|           fr-FR.yaml
+|           
++---exampleSite
+|   |   .gitignore
+|   |   config.toml
+|   |   LICENSE
+|   |   
+|   +---content
+|   |   |   about.md
+|   |   |   
+|   |   \---post
+|   |           creating-a-new-theme.md
+|   |           goisforlovers.md
+|   |           hugoisforlovers.md
+|   |           migrate-from-jekyll.md
+|   |           
+|   +---layouts
+|   |       .gitkeep
+|   |       
+|   \---static
+|           .gitignore
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   
+|   +---partials
+|   |       bottom.html
+|   |       footer.html
+|   |       head.html
+|   |       highlightjs.html
+|   |       menu.html
+|   |       share.html
+|   |       top.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    +---css
+    |       theme.css
+    |       theme.min.css
+    |       theme.scss
+    |       _custom-bootstrap.scss
+    |       _mixins.scss
+    |       _paginator.scss
+    |       _variables.scss
+    |       
+    +---fonts
+    |       .gitkeep
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       glyphicons-halflings-regular.woff2
+    |       
+    \---js
+            menu.js
+            theme.js
+            theme.min.js
+            

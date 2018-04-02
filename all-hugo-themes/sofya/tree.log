@@ -1,0 +1,61 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---about
+|   |   |       index.md
+|   |   |       
+|   |   \---post
+|   |           helloworld.md
+|   |           sofya.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---about
+|   |       single.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       
+|   \---_default
+|           single.html
+|           
+\---static
+    +---css
+    |       responsive.css
+    |       style.css
+    |       
+    \---img
+            dribbble-logo.svg
+            facebook-logo.svg
+            github-logo.svg
+            linkedin-logo.svg
+            me.jpg
+            quora-logo.svg
+            stack-overflow.svg
+            twitter-logo.svg
+            wordpress-logo.svg
+            youtube-logo.svg
+            

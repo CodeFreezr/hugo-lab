@@ -1,0 +1,81 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---images
+|       article.png
+|       screenshot.png
+|       tag.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       article.html
+|   |       footer.html
+|   |       head.html
+|   |       header.html
+|   |       li.html
+|   |       meta.html
+|   |       nav.html
+|   |       og.html
+|   |       pagination.html
+|   |       
+|   +---taxonomy
+|   |       tag.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           terms.html
+|           
+\---static
+    +---css
+    |   |   style.css
+    |   |   
+    |   \---fonts
+    |           fontawesome-webfont.eot
+    |           fontawesome-webfont.svg
+    |           fontawesome-webfont.ttf
+    |           fontawesome-webfont.woff
+    |           FontAwesome.otf
+    |           
+    +---js
+    |       .gitkeep
+    |       
+    \---webfonts
+        +---ptserif
+        |   |   main.css
+        |   |   
+        |   \---fonts
+        |           03aPdn7fFF3H6ngCgAlQzPk_vArhqVIZ0nv9q090hN8.woff2
+        |           3Nwg9VzlwLXPq3fNKwVRMCEAvth_LlrfE80CYdSH47w.woff2
+        |           5hX15RUpPERmeybVlLQEWBTbgVql8nDJpwnrE27mub0.woff2
+        |           b31S45a_TNgaBApZhTgE6CEAvth_LlrfE80CYdSH47w.woff2
+        |           CPRt--GVMETgA6YEaoGitxTbgVql8nDJpwnrE27mub0.woff2
+        |           fU0HAfLiPHGlZhZpY6M7dBTbgVql8nDJpwnrE27mub0.woff2
+        |           I-OtoJZa3TeyH6D9oli3ifesZW2xOQ-xsNqO47m55DA.woff2
+        |           O_WhD9hODL16N4KLHLX7xSEAvth_LlrfE80CYdSH47w.woff2
+        |           QABk9IxT-LFTJ_dQzv7xpCYE0-AqJ3nfInTTiDXDjU4.woff2
+        |           QABk9IxT-LFTJ_dQzv7xpDTOQ_MqJVwkKsUn0wKzc2I.woff2
+        |           QABk9IxT-LFTJ_dQzv7xpDUj_cnvWIuuBMVgbX098Mw.woff2
+        |           QABk9IxT-LFTJ_dQzv7xpI4P5ICox8Kq3LLUNMylGO4.woff2
+        |           
+        \---source-code-pro
+            |   main.css
+            |   
+            \---fonts
+                    mrl8jkM18OlOQN8JLgasD9V_2ngZ8dMf8fLgjYEouxg.woff2
+                    mrl8jkM18OlOQN8JLgasDy2Q8seG17bfDXYR_jUsrzg.woff2
+                    

@@ -1,0 +1,95 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       post.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   bulma.md
+|   |   |   
+|   |   +---post
+|   |   |       clipboard.md
+|   |   |       marxico.md
+|   |   |       prototyping.md
+|   |   |       
+|   |   \---project
+|   |           2008-12-30-password-protection-with-passkeeper.md
+|   |           
+|   \---static
+|           .gitkeep
+|           
++---images
+|       bulma-in-hugo-themes.png
+|       post-tn.png
+|       post.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   disqus.html
+|   |   |   favicon.html
+|   |   |   footer.html
+|   |   |   menu.html
+|   |   |   page-summary.html
+|   |   |   pagination.html
+|   |   |   site-verification.html
+|   |   |   toc.html
+|   |   |   
+|   |   +---meta
+|   |   |       name-author.html
+|   |   |       ogimage.html
+|   |   |       
+|   |   \---post
+|   |           byauthor.html
+|   |           category-link.html
+|   |           meta.html
+|   |           related-content.html
+|   |           tag-link.html
+|   |           
+|   +---post
+|   |       single.html
+|   |       
+|   \---_default
+|           baseof.html
+|           list.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
+\---static
+    +---css
+    |   |   blog-post.css
+    |   |   bulma.css
+    |   |   custom.css
+    |   |   landing.css
+    |   |   
+    |   \---code-highlighting
+    |           dark.css
+    |           light.css
+    |           
+    +---img
+    |       404.png
+    |       bulma.png
+    |       
+    \---js
+            bulma.js
+            clip.js
+            clipboard.min.js
+            lazysizes.min.js
+            smoothscroll.js
+            

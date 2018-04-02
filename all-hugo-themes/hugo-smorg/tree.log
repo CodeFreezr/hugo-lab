@@ -1,0 +1,110 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   .gitmodules
+|   CHANGELOG.md
+|   LICENSE
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   _config.yml
+|   
++---archetypes
+|       default.md
+|       project.md
+|       
++---docs
+|       altlanding-tn.jpg
+|       readme.md
+|       _config.yml
+|       
++---exampleSite
+|   |   config.yaml
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---content
+|   |   |   _index.md
+|   |   |   
+|   |   +---about
+|   |   |       hugo.md
+|   |   |       _index.md
+|   |   |       
+|   |   +---post
+|   |   |       creating-a-new-theme.md
+|   |   |       goisforlovers.md
+|   |   |       hugoisforlovers.md
+|   |   |       migrate-from-jekyll.md
+|   |   |       syntax-highlighting.md
+|   |   |       
+|   |   \---project
+|   |           blorg.md
+|   |           hugo-smorg.md
+|   |           xyz-1000.md
+|   |           
+|   \---layouts
+|           README.md
+|           
++---images
+|       .gitkeep
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.atom.xml
+|   |   index.html
+|   |   robots.txt
+|   |   
+|   +---partials
+|   |   |   debugprint.html
+|   |   |   favicon.html
+|   |   |   filter-html.html
+|   |   |   footer.html
+|   |   |   head.html
+|   |   |   js-errorurl.html
+|   |   |   js-menu.html
+|   |   |   logo.html
+|   |   |   nav.html
+|   |   |   page-author.html
+|   |   |   page-categories.html
+|   |   |   page-date.html
+|   |   |   page-meta.html
+|   |   |   page-status.html
+|   |   |   page-tags.html
+|   |   |   pagination.html
+|   |   |   section-crumbs.html
+|   |   |   
+|   |   \---microdata
+|   |           json-ld-home.html
+|   |           json-ld-page.html
+|   |           json-ld.html
+|   |           
+|   +---shortcodes
+|   |       ig.html
+|   |       
+|   \---_default
+|           baseof.html
+|           errorpage.html
+|           li.html
+|           list.html
+|           section.html
+|           single.html
+|           subsection.html
+|           summary.html
+|           taxonomy.html
+|           
++---scss
+|   |   smorg.scss
+|   |   
+|   +---bulmaswatch
+|   +---chroma-sass-themes
+|   \---system-font-css
+\---static
+    \---css
+            smorg.css
+            smorg.min.css
+            

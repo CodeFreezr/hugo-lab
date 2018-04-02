@@ -1,0 +1,117 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       projects.md
+|       publications.md
+|       
++---data
+|       devicons.json
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   |   search.md
+|   |   |   _index.md
+|   |   |   
+|   |   +---projects
+|   |   |   |   _index.md
+|   |   |   |   
+|   |   |   +---contributions
+|   |   |   |       deploy-triggers.md
+|   |   |   |       schema-org.md
+|   |   |   |       shields-docker.md
+|   |   |   |       _index.md
+|   |   |   |       
+|   |   |   \---creations
+|   |   |           bosh-agents.md
+|   |   |           docker-marketplace.md
+|   |   |           marketplace.md
+|   |   |           _index.md
+|   |   |           
+|   |   \---publications
+|   |           AllDayDevOps.md
+|   |           _index.md
+|   |           
+|   +---data
+|   |       education.json
+|   |       experience.json
+|   |       skills.json
+|   |       
+|   \---static
+|       |   favicon.ico
+|       |   
+|       +---.well-known
+|       |       google-verify.etc
+|       |       
+|       \---img
+|               aafb-agent-ids-match-bamboo.png
+|               cakephp-acls.png
+|               deploysonly.gif
+|               docker-pipelines.png
+|               marketplace-summary.png
+|               organicdevops.png
+|               profile3.jpg
+|               TechChat.png
+|               
++---images
+|       about.png
+|       projects.png
+|       qrcode.png
+|       screenshot.png
+|       search.png
+|       skills.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |   |   about.html
+|   |   |   breadcrumbs.html
+|   |   |   contact-qr.html
+|   |   |   nav.html
+|   |   |   projectsSummary.html
+|   |   |   publicationsSummary.html
+|   |   |   sectionSummary.html
+|   |   |   techtags.html
+|   |   |   
+|   |   \---portfolio
+|   |           education.html
+|   |           experience.html
+|   |           skills.html
+|   |           
+|   +---projects
+|   |       single.html
+|   |       
+|   +---publications
+|   |       single.html
+|   |       
+|   \---_default
+|           baseof.html
+|           index.json
+|           list.html
+|           search.html
+|           section.html
+|           single.html
+|           taxonomy.html
+|           terms.html
+|           
+\---static
+    +---css
+    |       resume.css
+    |       tweaks.css
+    |       
+    \---js
+            resume.js
+            search.js
+            

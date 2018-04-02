@@ -1,0 +1,121 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   changelog.md
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |       .keep
+|   |       
+|   \---static
+|           .keep
+|           
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---partials
+|   |       contact-form.html
+|   |       footer.html
+|   |       gallery.html
+|   |       header.html
+|   |       hero.html
+|   |       js.html
+|   |       mission.html
+|   |       nav.html
+|   |       services.html
+|   |       team.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
+\---static
+    |   favicon.ico
+    |   
+    +---css
+    |       animate.css
+    |       bootstrap.css
+    |       bootstrap.css.map
+    |       icomoon.css
+    |       magnific-popup.css
+    |       simple-line-icons.css
+    |       style.css
+    |       style.css.map
+    |       
+    +---fonts
+    |   +---bootstrap
+    |   |       glyphicons-halflings-regular.eot
+    |   |       glyphicons-halflings-regular.svg
+    |   |       glyphicons-halflings-regular.ttf
+    |   |       glyphicons-halflings-regular.woff
+    |   |       glyphicons-halflings-regular.woff2
+    |   |       
+    |   +---icomoon
+    |   |   |   icomoon.eot
+    |   |   |   icomoon.svg
+    |   |   |   icomoon.ttf
+    |   |   |   icomoon.woff
+    |   |   |   
+    |   |   \---icomoon
+    |   |       |   demo.html
+    |   |       |   Read Me.txt
+    |   |       |   selection.json
+    |   |       |   style.css
+    |   |       |   
+    |   |       +---demo-files
+    |   |       |       demo.css
+    |   |       |       demo.js
+    |   |       |       
+    |   |       \---fonts
+    |   |               icomoon.eot
+    |   |               icomoon.svg
+    |   |               icomoon.ttf
+    |   |               icomoon.woff
+    |   |               
+    |   \---simple-line-icons
+    |           Simple-Line-Icons.eot
+    |           Simple-Line-Icons.svg
+    |           Simple-Line-Icons.ttf
+    |           Simple-Line-Icons.woff
+    |           Simple-Line-Icons.woff2
+    |           
+    +---images
+    |       hero_bg.jpg
+    |       img_1.jpg
+    |       img_2.jpg
+    |       img_3.jpg
+    |       img_4.jpg
+    |       person1.jpg
+    |       person2.jpg
+    |       person3.jpg
+    |       person4.jpg
+    |       Preloader_2.gif
+    |       
+    \---js
+            bootstrap.min.js
+            jquery.easing.1.3.js
+            jquery.magnific-popup.min.js
+            jquery.min.js
+            jquery.stellar.min.js
+            jquery.waypoints.min.js
+            magnific-popup-options.js
+            main.js
+            modernizr-2.6.2.min.js
+            moment.js
+            respond.min.js
+            

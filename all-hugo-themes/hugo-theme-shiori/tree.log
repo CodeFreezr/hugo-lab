@@ -1,0 +1,62 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   bower.json
+|   config.toml
+|   gulpfile.js
+|   LICENSE.md
+|   package.json
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---page
+|   |       single.html
+|   |       
+|   +---partials
+|   |       disqus.html
+|   |       footer.html
+|   |       head.html
+|   |       layout_begin.html
+|   |       layout_end.html
+|   |       nav-right.html
+|   |       nav.html
+|   |       post-footer.html
+|   |       post-header-home.html
+|   |       post-header.html
+|   |       post-prev-next.html
+|   |       scripts.html
+|   |       sidebar.html
+|   |       
+|   +---post
+|   |       single.html
+|   |       summary.html
+|   |       
+|   \---section
+|           post.html
+|           
++---static
+|   +---javascripts
+|   |       shiori.js
+|   |       
+|   \---stylesheets
+|           shiori.css
+|           
+\---static_src
+    +---stylesheets
+    |       shiori.scss
+    |       
+    \---_sass
+            custom-bootstrap-variables.scss
+            custom-scss.scss
+            theme-color.scss
+            

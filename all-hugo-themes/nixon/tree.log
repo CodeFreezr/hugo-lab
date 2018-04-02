@@ -1,0 +1,138 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   CHANGELOG.md
+|   LICENSE
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       project.md
+|       
++---content
+|   +---post
+|   |       accumsan-ultricies-turpis.md
+|   |       proin-sodales-et-dolor-sed-congue.md
+|   |       vestibulum-tincidunt.md
+|   |       
+|   +---presentation
+|   |       aenean-odio-orci.md
+|   |       ullamcorper-ultrices-pellentesque.md
+|   |       vitae-blandit-turpis.md
+|   |       
+|   \---project
+|           cras-consequat-et-risus.md
+|           nulla-mauris-sit.md
+|           ornare-diam.md
+|           
++---data
+|       placeHolder.toml
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   +---content
+|   |   +---post
+|   |   |       accumsan-ultricies-turpis.md
+|   |   |       proin-sodales-et-dolor-sed-congue.md
+|   |   |       vestibulum-tincidunt.md
+|   |   |       
+|   |   +---presentation
+|   |   |       aenean-odio-orci.md
+|   |   |       ullamcorper-ultrices-pellentesque.md
+|   |   |       vitae-blandit-turpis.md
+|   |   |       
+|   |   \---project
+|   |           cras-consequat-et-risus.md
+|   |           nulla-mauris-sit.md
+|   |           ornare-diam.md
+|   |           
+|   +---data
+|   |       .gitkeep
+|   |       
+|   +---i18n
+|   |       en.yaml
+|   |       
+|   \---static
+|           .gitkeep
+|           
++---i18n
+|       en.yaml
+|       
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   index.html
+|   |   
+|   +---link
+|   |       li.html
+|   |       summary.html
+|   |       
+|   +---partials
+|   |       details.html
+|   |       disqus.html
+|   |       footer.html
+|   |       header.html
+|   |       head_includes.html
+|   |       meta.html
+|   |       meta_aside.html
+|   |       nav.html
+|   |       social.html
+|   |       subheader.html
+|   |       
+|   +---post
+|   |       summary.html
+|   |       
+|   +---project
+|   |       single.html
+|   |       
+|   +---section
+|   |       project.html
+|   |       
+|   +---shortcodes
+|   |       img.html
+|   |       scribd.html
+|   |       slideshare.html
+|   |       speakerdeck.html
+|   |       vimeo.html
+|   |       youtube.html
+|   |       
+|   +---taxonomy
+|   |       tag.html
+|   |       topic.html
+|   |       
+|   \---_default
+|           li.html
+|           section.html
+|           single.html
+|           summary.html
+|           terms.html
+|           title.html
+|           
+\---static
+    |   apple-touch-icon.png
+    |   favicon.ico
+    |   
+    +---css
+    |       nixon.css
+    |       
+    +---fonts
+    |       spf13-1.eot
+    |       spf13-1.svg
+    |       spf13-1.ttf
+    |       spf13-1.woff
+    |       
+    \---img
+            maximus-leo.jpg
+            nulla.png
+            pellentesque.jpg
+            sociosqu.png
+            tincidunt.png
+            ullamcorper.jpg
+            

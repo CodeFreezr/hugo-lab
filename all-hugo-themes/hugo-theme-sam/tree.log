@@ -1,0 +1,94 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   gulpfile.js
+|   LICENSE.txt
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       posts.md
+|       
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       |   about.md
+|       |   
+|       +---gallery
+|       |   |   _index.md
+|       |   |   
+|       |   \---images
+|       |           900-1.jpg
+|       |           900-2.jpg
+|       |           900-3.jpg
+|       |           900-4.jpg
+|       |           900-5.jpg
+|       |           900-6.jpg
+|       |           900-7.jpg
+|       |           900-8.jpg
+|       |           
+|       \---posts
+|               a-poem.md
+|               code-poetry.md
+|               dear-jane.md
+|               long-form-post.md
+|               oh-alice.md
+|               _index.md
+|               
++---images
+|       ideas.png
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---gallery
+|   |       list.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       head.html
+|   |       
+|   +---posts
+|   |       single.html
+|   |       
+|   \---_default
+|           list.html
+|           single.html
+|           
++---pug
+|   |   index.pug
+|   |   
+|   +---gallery
+|   |       list.pug
+|   |       
+|   +---partials
+|   |       footer.pug
+|   |       
+|   +---posts
+|   |       single.pug
+|   |       
+|   \---_default
+|           list.pug
+|           single.pug
+|           
++---sass
+|       style.sass
+|       _elements.sass
+|       _mixins.sass
+|       _vars.sass
+|       
+\---static
+    |   sam.ico
+    |   tn.png
+    |   
+    \---css
+            style.css
+            

@@ -1,0 +1,124 @@
+Auflistung der Ordnerpfade fÅr Volume New Volume
+Volumeseriennummer : 0061005C AA7E:DD19
+D:.
+|   .gitignore
+|   LICENSE.md
+|   README.md
+|   sloc.log
+|   theme.toml
+|   tree.log
+|   
++---archetypes
+|       default.md
+|       
++---docs
+|   |   index.html
+|   |   index.xml
+|   |   sitemap.xml
+|   |   
+|   +---about
+|   |       index.html
+|   |       
+|   +---archives
+|   |       index.html
+|   |       
+|   +---categories
+|   |       index.xml
+|   |       
+|   +---css
+|   |       style.css
+|   |       
+|   +---posts
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---a-little-because-by-teshima-aoi
+|   |   |       index.html
+|   |   |       
+|   |   +---article-with-images-preview
+|   |   |       index.html
+|   |   |       
+|   |   +---hello-hugo
+|   |   |       index.html
+|   |   |       
+|   |   +---hugo-quick-start
+|   |   |       index.html
+|   |   |       
+|   |   \---syntax-highlighting-preview
+|   |           index.html
+|   |           
+|   \---tags
+|       |   index.xml
+|       |   
+|       +---blog
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---code
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---example
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---highlight.js
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---hugo
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---images
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---song
+|       |       index.html
+|       |       index.xml
+|       |       
+|       \---tutorial
+|               index.html
+|               index.xml
+|               
++---exampleSite
+|   |   config.toml
+|   |   
+|   \---content
+|       |   about.md
+|       |   archives.md
+|       |   
+|       \---posts
+|               a-little-because-by-teshima-aoi.md
+|               another-hugo-post.md
+|               article-with-images-preview.md
+|               hello-hugo.md
+|               hugo-quick-start.md
+|               syntax-highlighting-preview.md
+|               
++---images
+|       screenshot.png
+|       tn.png
+|       
++---layouts
+|   |   404.html
+|   |   index.html
+|   |   
+|   +---archives
+|   |       single.html
+|   |       
+|   +---partials
+|   |       footer.html
+|   |       header.html
+|   |       middle.html
+|   |       
+|   \---_default
+|           list.html
+|           rss.xml
+|           single.html
+|           
+\---static
+    \---css
+            style.css
+            
